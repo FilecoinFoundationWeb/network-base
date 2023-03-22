@@ -180,9 +180,9 @@ collections:
             label: Text
             name: 25b5eb92
             widget: string
-          - hint: 'Original text: Register now, key: -5c165007'
+          - hint: 'Original text: Register Now, key: -5c16c827'
             label: Text
-            name: '-5c165007'
+            name: '-5c16c827'
             widget: string
           - hint: 'Original text: Organized by:, key: -48378adc'
             label: Text
@@ -224,6 +224,193 @@ collections:
             label: Text
             name: 33b84301
             widget: string
+          - hint: 'Original text: Schedule, key: -25bf0949'
+            label: Text
+            name: '-25bf0949'
+            widget: string
+          - hint: 'Original text: Mon, April 24th, key: -afa9cf0'
+            label: Text
+            name: '-afa9cf0'
+            widget: string
+          - hint: 'Original text: 9am, key: e225'
+            label: Text
+            name: e225
+            widget: string
+          - hint: 'Original text: The Riley, key: -bec0026'
+            label: Text
+            name: '-bec0026'
+            widget: string
+          - hint: 'Original text: Doors Open, key: -738320bb'
+            label: Text
+            name: '-738320bb'
+            widget: string
+          - hint: >-
+              Original text: Welcome to the Filecoin Network Base!, key:
+              -39d6b8ff
+            label: Text
+            name: '-39d6b8ff'
+            widget: string
+          - hint: 'Original text: 9am - 7pm, key: 1eba9046'
+            label: Text
+            name: 1eba9046
+            widget: string
+          - hint: 'Original text: 1st Floor, key: 3e3b889e'
+            label: Text
+            name: 3e3b889e
+            widget: string
+          - hint: 'Original text: Partners Office Hours, key: 6c5011e0'
+            label: Text
+            name: 6c5011e0
+            widget: string
+          - hint: >-
+              Original text: Expand your horizons by connecting with our diverse
+              network of partners and the Filecoin ecosystem., key: -4f8f6573
+            label: Text
+            name: '-4f8f6573'
+            widget: text
+          - hint: 'Original text: 9am - 1pm, key: 1eba79c0'
+            label: Text
+            name: 1eba79c0
+            widget: string
+          - hint: 'Original text: 2nd + 3rd Floor, key: -85db6bc'
+            label: Text
+            name: '-85db6bc'
+            widget: string
+          - hint: 'Original text: Open Coworking Space, key: -19d72b8b'
+            label: Text
+            name: '-19d72b8b'
+            widget: string
+          - hint: >-
+              Original text: Boost your productivity with our professional
+              workspace, complete with high-speed internet, comfortable seating,
+              and complimentary coffee and snacks., key: 2576c9c8
+            label: Text
+            name: 2576c9c8
+            widget: text
+          - hint: 'Original text: 1pm - 7pm, key: -6d3746b1'
+            label: Text
+            name: '-6d3746b1'
+            widget: string
+          - hint: 'Original text: 2nd Floor, key: 7cb66334'
+            label: Text
+            name: 7cb66334
+            widget: string
+          - hint: 'Original text: Program, key: 50c7b664'
+            label: Text
+            name: 50c7b664
+            widget: string
+          - hint: 'Original text: Stay tuned for upcoming program!, key: 7900ba2f'
+            label: Text
+            name: 7900ba2f
+            widget: string
+          - hint: 'Original text: 3rd Floor, key: -4f807a4f'
+            label: Text
+            name: '-4f807a4f'
+            widget: string
+          - hint: 'Original text: Tues, April 25th, key: -26eff18c'
+            label: Text
+            name: '-26eff18c'
+            widget: string
+          - hint: 'Original text: 9am - 12:30pm, key: 78e465a5'
+            label: Text
+            name: 78e465a5
+            widget: string
+          - hint: 'Original text: 12:30pm - 7pm, key: -7343218c'
+            label: Text
+            name: '-7343218c'
+            widget: string
+          - hint: 'Original text: Crypto Econ Day, key: 571f9058'
+            label: Text
+            name: 571f9058
+            widget: string
+          - hint: >-
+              Original text: CryptoEconDay is a gathering of Web3 researchers
+              and practitioners sharing findings, lessons learned, and answering
+              some of our most challenging questions around the topic of
+              cryptoeconomics. , key: -384cc5ba
+            label: Text
+            name: '-384cc5ba'
+            widget: text
+          - hint: 'Original text: Register , key: 7c1bc5bd'
+            label: Text
+            name: 7c1bc5bd
+            widget: string
+          - hint: 'Original text: here, key: 30cff0'
+            label: Text
+            name: 30cff0
+            widget: string
+          - hint: 'Original text: ​​, key: 40160'
+            label: Text
+            name: '40160'
+            widget: string
+          - hint: 'Original text: Speakers​, key: f22aa17'
+            label: Text
+            name: f22aa17
+            widget: string
+          - hint: 'Original text: Juan Benet - Protocol Labs, key: -32ab36b3'
+            label: Text
+            name: '-32ab36b3'
+            widget: string
+          - hint: 'Original text: David Shuttleworth - Binance Labs, key: -3e2596fe'
+            label: Text
+            name: '-3e2596fe'
+            widget: string
+          - hint: 'Original text: Cesare Fracassi - Coinbase Institute, key: 7c00c917'
+            label: Text
+            name: 7c00c917
+            widget: string
+          - hint: >-
+              Original text: Miko Matsumura - Gumi Cryptos Capital, key:
+              -5fff6c82
+            label: Text
+            name: '-5fff6c82'
+            widget: string
+          - hint: >-
+              Original text: Hao Chung - Carnegie Mellon University, key:
+              2fa14ee3
+            label: Text
+            name: 2fa14ee3
+            widget: string
+          - hint: 'Original text: Jiasun Li - George Mason University, key: 7c8d5f31'
+            label: Text
+            name: 7c8d5f31
+            widget: string
+          - hint: 'Original text: Mustafa Qazi - 6th Man Ventures, key: -4131495d'
+            label: Text
+            name: '-4131495d'
+            widget: string
+          - hint: 'Original text: Kiran Karra - CryptoEconLab, key: 3b71e448'
+            label: Text
+            name: 3b71e448
+            widget: string
+          - hint: 'Original text: 7pm - 9pm, key: c635ad7'
+            label: Text
+            name: c635ad7
+            widget: string
+          - hint: 'Original text: Filecoin and Friends Happy Hour, key: -82f24d5'
+            label: Text
+            name: '-82f24d5'
+            widget: string
+          - hint: 'Original text: Wed, April 26th, key: 53cf6fdc'
+            label: Text
+            name: 53cf6fdc
+            widget: string
+          - hint: 'Original text: 9am - 6pm, key: 1eba8c85'
+            label: Text
+            name: 1eba8c85
+            widget: string
+          - hint: 'Original text: 1pm - 5pm, key: -6d374e33'
+            label: Text
+            name: '-6d374e33'
+            widget: string
+          - hint: 'Original text: 5pm - 9pm, key: -1c25832b'
+            label: Text
+            name: '-1c25832b'
+            widget: string
+          - hint: 'Original text: Private Event, key: -4e08283'
+            label: Text
+            name: '-4e08283'
+            widget: string
           - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
             label: Text
             name: 21b3c91a
@@ -258,108 +445,6 @@ collections:
             label: Text
             name: '-4ad5204b'
             widget: string
-          - hint: 'Original text: 繁體, key: fe4b3'
-            label: Text
-            name: fe4b3
-            widget: string
-          - hint: 'Original text: Join us for DeStor HK!, key: -72596ba'
-            label: Text
-            name: '-72596ba'
-            widget: string
-          - hint: >-
-              Original text: Calling all Filecoin Storage Providers, Clients &
-              Investors, key: b1ded90
-            label: Text
-            name: b1ded90
-            widget: string
-          - hint: 'Original text: Apply for your FREE Ticket now!, key: 6f7afeaf'
-            label: Text
-            name: 6f7afeaf
-            widget: string
-          - hint: 'Original text: A FREE ticket to , key: da3ba46'
-            label: Text
-            name: da3ba46
-            widget: string
-          - hint: 'Original text: Filecoin DeStorHK, key: -382d8f65'
-            label: Text
-            name: '-382d8f65'
-            widget: string
-          - hint: >-
-              Original text:  gets you full-day access to Web3 Festival on the
-              15th of April, Limit one ticket per application; full-access pass
-              restricted to Web3 Festival 4/15/23. , key: 2204869f
-            label: Text
-            name: 2204869f
-            widget: text
-          - hint: >-
-              Original text: What’s the next step for your storage provider
-              business?, key: 31f3e313
-            label: Text
-            name: 31f3e313
-            widget: string
-          - hint: 'Original text: Come to , key: -209dc1f7'
-            label: Text
-            name: '-209dc1f7'
-            widget: string
-          - hint: 'Original text: DeStor HK, key: 50ec12be'
-            label: Text
-            name: 50ec12be
-            widget: string
-          - hint: >-
-              Original text:  - a half day event created specifically for , key:
-              -250ce4b0
-            label: Text
-            name: '-250ce4b0'
-            widget: string
-          - hint: 'Original text: Filecoin Storage Providers, key: -43444236'
-            label: Text
-            name: '-43444236'
-            widget: string
-          - hint: "Original text: .\_ This event offers a unique opportunity to connect with other providers, hear from experts at Protocol Labs and your peers, and learn new strategies for maximizing your storage business and capabilities.\_ You’ll gain insights into the latest developments in blockchain technology (like FVM) and how they are evolving and revolutionizing your business potential.\_ You will also have the chance to explore new collaboration opportunities that will also help grow your business through improved utility and efficiency.\_ , key: 41f166ab"
-            label: Text
-            name: 41f166ab
-            widget: text
-          - hint: >-
-              Original text:  is a must-attend event as you look to stay ahead
-              of the curve and drive your business forward., key: -2d1c6d2c
-            label: Text
-            name: '-2d1c6d2c'
-            widget: text
-          - hint: 'Original text: 加入我們參加DeStor HK, key: -2aa6fea4'
-            label: Text
-            name: '-2aa6fea4'
-            widget: string
-          - hint: 'Original text: ENGLISH, key: -34cbd9b0'
-            label: Text
-            name: '-34cbd9b0'
-            widget: string
-          - hint: 'Original text: 呼叫所有的Filecoin存儲提供者、客戶和投資者。, key: -33d00093'
-            label: Text
-            name: '-33d00093'
-            widget: string
-          - hint: 'Original text: 立即申請您的免費門票！, key: 339ff2ef'
-            label: Text
-            name: 339ff2ef
-            widget: string
-          - hint: >-
-              Original text: 免費的Filecoin
-              DeStorHK門票可以讓您在4月15日全天進入Web3節慶，每個申請只限制一張門票；完全通行證僅限於Web3節慶4/15/23。,
-              key: 4e7f3364
-            label: Text
-            name: 4e7f3364
-            widget: string
-          - hint: 'Original text: 你的存儲服務業務下一步是什麼？, key: -7450ab72'
-            label: Text
-            name: '-7450ab72'
-            widget: string
-          - hint: >-
-              Original text: 快來參加DeStor
-              HK——這是專為Filecoin存儲服務提供商設計的半天活動。本次活動為您提供了與其他提供商聯繫、聆聽Protocol
-              Labs和您的同行專家意見、學習最大化您的存儲業務和能力的新策略的獨特機會。您將獲得有關區塊鏈技術（如FVM）的最新發展及其如何演進和革新您的業務潛力的深入見解。您還有機會探索新的合作機會，通過提高實用性和效率來幫助增長業務。對於想要保持領先並推動業務前進的人來說，DeStor
-              HK是必參加的活動。, key: 5a8f6439
-            label: Text
-            name: 5a8f6439
-            widget: text
           - hint: >-
               Original text: Register here to join the Filecoin community and
               our partners this April 24-26 at the , key: 2b0d9730
@@ -369,6 +454,80 @@ collections:
           - hint: 'Original text: Filecoin Network Base., key: -37ee0de8'
             label: Text
             name: '-37ee0de8'
+            widget: string
+          - hint: 'Original text: Style Guide, key: -7aba473'
+            label: Text
+            name: '-7aba473'
+            widget: string
+          - hint: >-
+              Original text: Pro-tips: Paste this content into a dedicated page
+              named “Style guide”. Convert each color style below to global
+              swatches so they can be used in text, borders, backgrounds, and
+              gradients. To do this, select a color style element, navigate to
+              the Background Color section in the Style panel, edit the color,
+              and add it as a global swatch., key: -7f38981d
+            label: Text
+            name: '-7f38981d'
+            widget: text
+          - hint: 'Original text: Text styles, key: 35c0a715'
+            label: Text
+            name: 35c0a715
+            widget: string
+          - hint: 'Original text: Heading, key: -6d5fea1e'
+            label: Text
+            name: '-6d5fea1e'
+            widget: string
+          - hint: 'Original text: Sora 76px/139.9999976158142%, key: 7b0db17c'
+            label: Text
+            name: 7b0db17c
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 16px/120.00000476837158%, key:
+              -2af7075f
+            label: Text
+            name: '-2af7075f'
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 49px/139.9999976158142%, key:
+              -323fb90d
+            label: Text
+            name: '-323fb90d'
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 39px/139.9999976158142%, key:
+              -7c71524e
+            label: Text
+            name: '-7c71524e'
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 31px/139.9999976158142%, key:
+              4f60d8ba
+            label: Text
+            name: 4f60d8ba
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 25px/139.9999976158142%, key:
+              1f4629f5
+            label: Text
+            name: 1f4629f5
+            widget: string
+          - hint: 'Original text: Lorem ipsum dolor, key: 2dcf2cff'
+            label: Text
+            name: 2dcf2cff
+            widget: string
+          - hint: 'Original text: Sora Regular 16px/160.0000023841858%, key: 6c8a4a3a'
+            label: Text
+            name: 6c8a4a3a
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 16px/139.9999976158142%, key:
+              5b9a4b53
+            label: Text
+            name: 5b9a4b53
+            widget: string
+          - hint: 'Original text: Sora Bold 13px/200%, key: 276be752'
+            label: Text
+            name: 276be752
             widget: string
       - label: Links
         name: links
@@ -389,6 +548,10 @@ collections:
           - hint: 'Original link: mailto:events@fil.org, key: 42500560'
             label: Link
             name: '42500560'
+            widget: string
+          - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
+            label: Link
+            name: 7c142b17
             widget: string
           - hint: 'Original link: https://filecoin.io/, key: 1f2c24b7'
             label: Link
@@ -414,14 +577,6 @@ collections:
               9d271d5
             label: Link
             name: 9d271d5
-            widget: string
-          - hint: 'Original link: /destor-zh, key: 4fbd56a7'
-            label: Link
-            name: 4fbd56a7
-            widget: string
-          - hint: 'Original link: /destor-en, key: 4fbd5422'
-            label: Link
-            name: 4fbd5422
             widget: string
       - label: Images
         name: images
