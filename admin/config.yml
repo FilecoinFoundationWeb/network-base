@@ -168,50 +168,6 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: >-
-              Original text: Register here to join the Filecoin community and
-              our partners this April 24-26 at the , key: 2b0d9730
-            label: Text
-            name: 2b0d9730
-            widget: string
-          - hint: 'Original text: Filecoin Network Base., key: -37ee0de8'
-            label: Text
-            name: '-37ee0de8'
-            widget: string
-          - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
-            label: Text
-            name: 21b3c91a
-            widget: string
-          - hint: 'Original text: filecoin.io, key: 46615ca7'
-            label: Text
-            name: 46615ca7
-            widget: string
-          - hint: 'Original text: fil.org, key: -330f0881'
-            label: Text
-            name: '-330f0881'
-            widget: string
-          - hint: 'Original text: protocol.ai, key: -18777cc2'
-            label: Text
-            name: '-18777cc2'
-            widget: string
-          - hint: 'Original text: ABOUT, key: 3b32b6d'
-            label: Text
-            name: 3b32b6d
-            widget: string
-          - hint: 'Original text: Code of Conduct, key: -24630032'
-            label: Text
-            name: '-24630032'
-            widget: string
-          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
-            label: Text
-            name: '-3fbde6f6'
-            widget: string
-          - hint: >-
-              Original text: Copyright © 2023 Filecoin Foundation, key:
-              -4ad5204b
-            label: Text
-            name: '-4ad5204b'
-            widget: string
           - hint: 'Original text: Organized by:, key: -48378adc'
             label: Text
             name: '-48378adc'
@@ -295,6 +251,50 @@ collections:
             label: Text
             name: a03da7b
             widget: string
+          - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
+            label: Text
+            name: 21b3c91a
+            widget: string
+          - hint: 'Original text: filecoin.io, key: 46615ca7'
+            label: Text
+            name: 46615ca7
+            widget: string
+          - hint: 'Original text: fil.org, key: -330f0881'
+            label: Text
+            name: '-330f0881'
+            widget: string
+          - hint: 'Original text: protocol.ai, key: -18777cc2'
+            label: Text
+            name: '-18777cc2'
+            widget: string
+          - hint: 'Original text: ABOUT, key: 3b32b6d'
+            label: Text
+            name: 3b32b6d
+            widget: string
+          - hint: 'Original text: Code of Conduct, key: -24630032'
+            label: Text
+            name: '-24630032'
+            widget: string
+          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
+            label: Text
+            name: '-3fbde6f6'
+            widget: string
+          - hint: >-
+              Original text: Copyright © 2023 Filecoin Foundation, key:
+              -4ad5204b
+            label: Text
+            name: '-4ad5204b'
+            widget: string
+          - hint: >-
+              Original text: Register here to join the Filecoin community and
+              our partners this April 24-26 at the , key: 2b0d9730
+            label: Text
+            name: 2b0d9730
+            widget: string
+          - hint: 'Original text: Filecoin Network Base., key: -37ee0de8'
+            label: Text
+            name: '-37ee0de8'
+            widget: string
           - hint: 'Original text: Style Guide, key: -7aba473'
             label: Text
             name: '-7aba473'
@@ -369,9 +369,9 @@ collections:
             label: Text
             name: 276be752
             widget: string
-          - hint: 'Original text: Registration for Austin Now!, key: 172838d3'
+          - hint: 'Original text: Register for Austin Now!, key: -53758543'
             label: Text
-            name: 172838d3
+            name: '-53758543'
             widget: string
           - hint: 'Original text: April 24-26, 2023, key: -14ccd7d8'
             label: Text
@@ -592,6 +592,22 @@ collections:
             name: title
             widget: hidden
             default: Links
+          - hint: 'Original link: http://fil.org, key: -197dcad3'
+            label: Link
+            name: '-197dcad3'
+            widget: string
+          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
+            label: Link
+            name: '42500560'
+            widget: string
+          - hint: 'Original link: https://fil-hk.io/, key: 2a7cfab1'
+            label: Link
+            name: 2a7cfab1
+            widget: string
+          - hint: 'Original link: http://networkbase.io/austin, key: 681a2682'
+            label: Link
+            name: 681a2682
+            widget: string
           - hint: 'Original link: https://filecoin.io/, key: 1f2c24b7'
             label: Link
             name: 1f2c24b7
@@ -617,39 +633,15 @@ collections:
             label: Link
             name: 9d271d5
             widget: string
-          - hint: 'Original link: http://fil.org, key: -197dcad3'
-            label: Link
-            name: '-197dcad3'
-            widget: string
-          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
-            label: Link
-            name: '42500560'
-            widget: string
-          - hint: 'Original link: http://austin.networkbase.io, key: 4702fb97'
-            label: Link
-            name: 4702fb97
-            widget: string
-          - hint: 'Original link: https://fil-hk.io/, key: 2a7cfab1'
-            label: Link
-            name: 2a7cfab1
-            widget: string
-          - hint: 'Original link: #, key: 23'
-            label: Link
-            name: '23'
-            widget: string
-          - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
-            label: Link
-            name: 7c142b17
-            widget: string
-          - hint: 'Original link: http://networkbase.io/austin, key: 681a2682'
-            label: Link
-            name: 681a2682
-            widget: string
           - hint: >-
               Original link: http://networkbase.io/register-austin, key:
               -5b423c24
             label: Link
             name: '-5b423c24'
+            widget: string
+          - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
+            label: Link
+            name: 7c142b17
             widget: string
       - label: Images
         name: images
@@ -686,7 +678,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '76412e4'
+            name: 6e53f5b
             widget: object
             fields:
               - name: url
@@ -712,7 +704,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 6e53f5b
+            name: df0ffdb
             widget: object
             fields:
               - name: url
@@ -725,7 +717,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: df0ffdb
+            name: '76412e4'
             widget: object
             fields:
               - name: url
