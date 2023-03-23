@@ -6,7 +6,7 @@ slug: ''
 tags: pages
 seo:
   noindex: false
-  title: Filecoin Network Base
+  title: Network Base
 ---
 
 

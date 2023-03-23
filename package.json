@@ -1,5 +1,5 @@
 {
-  "name": "filecoin-network-base",
+  "name": "network-base",
   "dependencies": {
     "@11ty/eleventy": "1.0.0",
     "@11ty/eleventy-img": "2.0.0",

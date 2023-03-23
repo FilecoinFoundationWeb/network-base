@@ -168,9 +168,210 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: Registration is live!, key: -4396725a'
+          - hint: >-
+              Original text: Register here to join the Filecoin community and
+              our partners this April 24-26 at the , key: 2b0d9730
             label: Text
-            name: '-4396725a'
+            name: 2b0d9730
+            widget: string
+          - hint: 'Original text: Filecoin Network Base., key: -37ee0de8'
+            label: Text
+            name: '-37ee0de8'
+            widget: string
+          - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
+            label: Text
+            name: 21b3c91a
+            widget: string
+          - hint: 'Original text: filecoin.io, key: 46615ca7'
+            label: Text
+            name: 46615ca7
+            widget: string
+          - hint: 'Original text: fil.org, key: -330f0881'
+            label: Text
+            name: '-330f0881'
+            widget: string
+          - hint: 'Original text: protocol.ai, key: -18777cc2'
+            label: Text
+            name: '-18777cc2'
+            widget: string
+          - hint: 'Original text: ABOUT, key: 3b32b6d'
+            label: Text
+            name: 3b32b6d
+            widget: string
+          - hint: 'Original text: Code of Conduct, key: -24630032'
+            label: Text
+            name: '-24630032'
+            widget: string
+          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
+            label: Text
+            name: '-3fbde6f6'
+            widget: string
+          - hint: >-
+              Original text: Copyright © 2023 Filecoin Foundation, key:
+              -4ad5204b
+            label: Text
+            name: '-4ad5204b'
+            widget: string
+          - hint: 'Original text: Organized by:, key: -48378adc'
+            label: Text
+            name: '-48378adc'
+            widget: string
+          - hint: 'Original text: Upcoming Network Bases, key: -5d6110d4'
+            label: Text
+            name: '-5d6110d4'
+            widget: string
+          - hint: >-
+              Original text: Visit our co-working space to catch a lightning
+              talk, participate in workshops with developers, and learn about
+              the latest on the Filecoin Virtual Machine. , key: -281935a9
+            label: Text
+            name: '-281935a9'
+            widget: text
+          - hint: >-
+              Original text: Always packed with programming, networking
+              opportunities, coaching sessions and more, the Network Base is
+              your go to spot for cross chain collaboration and connections. ,
+              key: -635c10ff
+            label: Text
+            name: '-635c10ff'
+            widget: text
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: >-
+              Original text: Interested in partnering with us or hosting your
+              own event in the space? , key: -2e5cdd8f
+            label: Text
+            name: '-2e5cdd8f'
+            widget: string
+          - hint: 'Original text: Reach out, key: 33b84301'
+            label: Text
+            name: 33b84301
+            widget: string
+          - hint: 'Original text: April 12th-15th, key: -4ef26f2a'
+            label: Text
+            name: '-4ef26f2a'
+            widget: string
+          - hint: 'Original text: Center Space, key: -51f81e85'
+            label: Text
+            name: '-51f81e85'
+            widget: string
+          - hint: 'Original text: Central, key: -75207aab'
+            label: Text
+            name: '-75207aab'
+            widget: string
+          - hint: 'Original text: FIL Hong-Kong Network Base, key: 2c82c970'
+            label: Text
+            name: 2c82c970
+            widget: string
+          - hint: >-
+              Original text: We’ve got the perfect home base for your stay in HK
+              at the city’s iconic Center building. Stop by for daily lightning
+              talks, workshops, and coworking with fellow ecosystem
+              contributors., key: -787bac51
+            label: Text
+            name: '-787bac51'
+            widget: text
+          - hint: 'Original text: April 24th-26th, key: 1514d1b5'
+            label: Text
+            name: 1514d1b5
+            widget: string
+          - hint: 'Original text: The Riley, key: -bec0026'
+            label: Text
+            name: '-bec0026'
+            widget: string
+          - hint: 'Original text: Buidling, key: -51d8a23c'
+            label: Text
+            name: '-51d8a23c'
+            widget: string
+          - hint: 'Original text: Filecoin Network Base, key: -7dacd72a'
+            label: Text
+            name: '-7dacd72a'
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Network Base is your home base in
+              Austin ahead of Consensus 2023. , key: a03da7b
+            label: Text
+            name: a03da7b
+            widget: string
+          - hint: 'Original text: Style Guide, key: -7aba473'
+            label: Text
+            name: '-7aba473'
+            widget: string
+          - hint: >-
+              Original text: Pro-tips: Paste this content into a dedicated page
+              named “Style guide”. Convert each color style below to global
+              swatches so they can be used in text, borders, backgrounds, and
+              gradients. To do this, select a color style element, navigate to
+              the Background Color section in the Style panel, edit the color,
+              and add it as a global swatch., key: -7f38981d
+            label: Text
+            name: '-7f38981d'
+            widget: text
+          - hint: 'Original text: Text styles, key: 35c0a715'
+            label: Text
+            name: 35c0a715
+            widget: string
+          - hint: 'Original text: Heading, key: -6d5fea1e'
+            label: Text
+            name: '-6d5fea1e'
+            widget: string
+          - hint: 'Original text: Sora 76px/139.9999976158142%, key: 7b0db17c'
+            label: Text
+            name: 7b0db17c
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 16px/120.00000476837158%, key:
+              -2af7075f
+            label: Text
+            name: '-2af7075f'
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 49px/139.9999976158142%, key:
+              -323fb90d
+            label: Text
+            name: '-323fb90d'
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 39px/139.9999976158142%, key:
+              -7c71524e
+            label: Text
+            name: '-7c71524e'
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 31px/139.9999976158142%, key:
+              4f60d8ba
+            label: Text
+            name: 4f60d8ba
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 25px/139.9999976158142%, key:
+              1f4629f5
+            label: Text
+            name: 1f4629f5
+            widget: string
+          - hint: 'Original text: Lorem ipsum dolor, key: 2dcf2cff'
+            label: Text
+            name: 2dcf2cff
+            widget: string
+          - hint: 'Original text: Sora Regular 16px/160.0000023841858%, key: 6c8a4a3a'
+            label: Text
+            name: 6c8a4a3a
+            widget: string
+          - hint: >-
+              Original text: Sora SemiBold 16px/139.9999976158142%, key:
+              5b9a4b53
+            label: Text
+            name: 5b9a4b53
+            widget: string
+          - hint: 'Original text: Sora Bold 13px/200%, key: 276be752'
+            label: Text
+            name: 276be752
+            widget: string
+          - hint: 'Original text: Registration for Austin Now!, key: 172838d3'
+            label: Text
+            name: 172838d3
             widget: string
           - hint: 'Original text: April 24-26, 2023, key: -14ccd7d8'
             label: Text
@@ -184,16 +385,6 @@ collections:
             label: Text
             name: '-5c16c827'
             widget: string
-          - hint: 'Original text: Organized by:, key: -48378adc'
-            label: Text
-            name: '-48378adc'
-            widget: string
-          - hint: >-
-              Original text: The Filecoin Network Base is your home base in
-              Austin ahead of Consensus 2023. , key: a03da7b
-            label: Text
-            name: a03da7b
-            widget: string
           - hint: >-
               Original text: Visit our co-working space to catch a lightning
               talk, participate in workshops with developers, and learn about
@@ -204,25 +395,11 @@ collections:
             label: Text
             name: '-1f2dc793'
             widget: text
-          - hint: 'Original text: ‍, key: 200d'
-            label: Text
-            name: 200d
-            widget: string
           - hint: >-
               Original text: The Network base is open daily from 10:00 AM to
               8:00 PM, April 24th through 26th. , key: 7e9a25fd
             label: Text
             name: 7e9a25fd
-            widget: string
-          - hint: >-
-              Original text: Interested in partnering with us or hosting your
-              own event in the space? , key: -2e5cdd8f
-            label: Text
-            name: '-2e5cdd8f'
-            widget: string
-          - hint: 'Original text: Reach out, key: 33b84301'
-            label: Text
-            name: 33b84301
             widget: string
           - hint: 'Original text: Schedule, key: -25bf0949'
             label: Text
@@ -235,10 +412,6 @@ collections:
           - hint: 'Original text: 9am, key: e225'
             label: Text
             name: e225
-            widget: string
-          - hint: 'Original text: The Riley, key: -bec0026'
-            label: Text
-            name: '-bec0026'
             widget: string
           - hint: 'Original text: Doors Open, key: -738320bb'
             label: Text
@@ -411,124 +584,6 @@ collections:
             label: Text
             name: '-4e08283'
             widget: string
-          - hint: 'Original text: OUR NETWORK, key: 21b3c91a'
-            label: Text
-            name: 21b3c91a
-            widget: string
-          - hint: 'Original text: filecoin.io, key: 46615ca7'
-            label: Text
-            name: 46615ca7
-            widget: string
-          - hint: 'Original text: fil.org, key: -330f0881'
-            label: Text
-            name: '-330f0881'
-            widget: string
-          - hint: 'Original text: protocol.ai, key: -18777cc2'
-            label: Text
-            name: '-18777cc2'
-            widget: string
-          - hint: 'Original text: ABOUT, key: 3b32b6d'
-            label: Text
-            name: 3b32b6d
-            widget: string
-          - hint: 'Original text: Code of Conduct, key: -24630032'
-            label: Text
-            name: '-24630032'
-            widget: string
-          - hint: 'Original text: Privacy Policy, key: -3fbde6f6'
-            label: Text
-            name: '-3fbde6f6'
-            widget: string
-          - hint: >-
-              Original text: Copyright © 2023 Filecoin Foundation, key:
-              -4ad5204b
-            label: Text
-            name: '-4ad5204b'
-            widget: string
-          - hint: >-
-              Original text: Register here to join the Filecoin community and
-              our partners this April 24-26 at the , key: 2b0d9730
-            label: Text
-            name: 2b0d9730
-            widget: string
-          - hint: 'Original text: Filecoin Network Base., key: -37ee0de8'
-            label: Text
-            name: '-37ee0de8'
-            widget: string
-          - hint: 'Original text: Style Guide, key: -7aba473'
-            label: Text
-            name: '-7aba473'
-            widget: string
-          - hint: >-
-              Original text: Pro-tips: Paste this content into a dedicated page
-              named “Style guide”. Convert each color style below to global
-              swatches so they can be used in text, borders, backgrounds, and
-              gradients. To do this, select a color style element, navigate to
-              the Background Color section in the Style panel, edit the color,
-              and add it as a global swatch., key: -7f38981d
-            label: Text
-            name: '-7f38981d'
-            widget: text
-          - hint: 'Original text: Text styles, key: 35c0a715'
-            label: Text
-            name: 35c0a715
-            widget: string
-          - hint: 'Original text: Heading, key: -6d5fea1e'
-            label: Text
-            name: '-6d5fea1e'
-            widget: string
-          - hint: 'Original text: Sora 76px/139.9999976158142%, key: 7b0db17c'
-            label: Text
-            name: 7b0db17c
-            widget: string
-          - hint: >-
-              Original text: Sora SemiBold 16px/120.00000476837158%, key:
-              -2af7075f
-            label: Text
-            name: '-2af7075f'
-            widget: string
-          - hint: >-
-              Original text: Sora SemiBold 49px/139.9999976158142%, key:
-              -323fb90d
-            label: Text
-            name: '-323fb90d'
-            widget: string
-          - hint: >-
-              Original text: Sora SemiBold 39px/139.9999976158142%, key:
-              -7c71524e
-            label: Text
-            name: '-7c71524e'
-            widget: string
-          - hint: >-
-              Original text: Sora SemiBold 31px/139.9999976158142%, key:
-              4f60d8ba
-            label: Text
-            name: 4f60d8ba
-            widget: string
-          - hint: >-
-              Original text: Sora SemiBold 25px/139.9999976158142%, key:
-              1f4629f5
-            label: Text
-            name: 1f4629f5
-            widget: string
-          - hint: 'Original text: Lorem ipsum dolor, key: 2dcf2cff'
-            label: Text
-            name: 2dcf2cff
-            widget: string
-          - hint: 'Original text: Sora Regular 16px/160.0000023841858%, key: 6c8a4a3a'
-            label: Text
-            name: 6c8a4a3a
-            widget: string
-          - hint: >-
-              Original text: Sora SemiBold 16px/139.9999976158142%, key:
-              5b9a4b53
-            label: Text
-            name: 5b9a4b53
-            widget: string
-          - hint: 'Original text: Sora Bold 13px/200%, key: 276be752'
-            label: Text
-            name: 276be752
-            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -537,22 +592,6 @@ collections:
             name: title
             widget: hidden
             default: Links
-          - hint: 'Original link: /register, key: f6c8fd2'
-            label: Link
-            name: f6c8fd2
-            widget: string
-          - hint: 'Original link: http://fil.org, key: -197dcad3'
-            label: Link
-            name: '-197dcad3'
-            widget: string
-          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
-            label: Link
-            name: '42500560'
-            widget: string
-          - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
-            label: Link
-            name: 7c142b17
-            widget: string
           - hint: 'Original link: https://filecoin.io/, key: 1f2c24b7'
             label: Link
             name: 1f2c24b7
@@ -577,6 +616,30 @@ collections:
               9d271d5
             label: Link
             name: 9d271d5
+            widget: string
+          - hint: 'Original link: http://fil.org, key: -197dcad3'
+            label: Link
+            name: '-197dcad3'
+            widget: string
+          - hint: 'Original link: mailto:events@fil.org, key: 42500560'
+            label: Link
+            name: '42500560'
+            widget: string
+          - hint: 'Original link: http://austin.networkbase.io, key: 4702fb97'
+            label: Link
+            name: 4702fb97
+            widget: string
+          - hint: 'Original link: https://fil-hk.io/, key: 2a7cfab1'
+            label: Link
+            name: 2a7cfab1
+            widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
+            widget: string
+          - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
+            label: Link
+            name: 7c142b17
             widget: string
       - label: Images
         name: images
@@ -613,33 +676,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 6e53f5b
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 66c5b85
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-511e189f'
+            name: '76412e4'
             widget: object
             fields:
               - name: url
@@ -665,6 +702,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 6e53f5b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: df0ffdb
             widget: object
             fields:
@@ -678,7 +728,20 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '76412e4'
+            name: '-6bf62c99'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-c0ec661'
             widget: object
             fields:
               - name: url
