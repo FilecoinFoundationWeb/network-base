@@ -641,6 +641,16 @@ collections:
             label: Link
             name: 7c142b17
             widget: string
+          - hint: 'Original link: http://networkbase.io/austin, key: 681a2682'
+            label: Link
+            name: 681a2682
+            widget: string
+          - hint: >-
+              Original link: http://networkbase.io/register-austin, key:
+              -5b423c24
+            label: Link
+            name: '-5b423c24'
+            widget: string
       - label: Images
         name: images
         file: cms/_data/images.json
