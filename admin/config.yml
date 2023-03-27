@@ -396,10 +396,16 @@ collections:
             name: '-1f2dc793'
             widget: text
           - hint: >-
-              Original text: The Network base is open daily from 10:00 AM to
-              8:00 PM, April 24th through 26th. , key: 7e9a25fd
+              Original text: Time: Open daily from 10:00 AM to 8:00 PM, April
+              24th through 26th. , key: -28aec78
             label: Text
-            name: 7e9a25fd
+            name: '-28aec78'
+            widget: string
+          - hint: >-
+              Original text: Location: The Riley Building | 315 Lavaca St,
+              Austin, TX 78701, key: 62911e68
+            label: Text
+            name: '62911e68'
             widget: string
           - hint: 'Original text: Schedule, key: -25bf0949'
             label: Text
