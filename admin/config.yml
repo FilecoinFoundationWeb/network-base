@@ -590,6 +590,55 @@ collections:
             label: Text
             name: '-4e08283'
             widget: string
+          - hint: 'Original text: April 26th-28th, key: -1b28cd0b'
+            label: Text
+            name: '-1b28cd0b'
+            widget: string
+          - hint: 'Original text: All Day, key: 2cc1f05d'
+            label: Text
+            name: 2cc1f05d
+            widget: string
+          - hint: 'Original text: Austin Convention Center, key: -4e6ff522'
+            label: Text
+            name: '-4e6ff522'
+            widget: string
+          - hint: >-
+              Original text: Protocol Village - Sponsored by Filecoin
+              Foundation, key: -3c5751ad
+            label: Text
+            name: '-3c5751ad'
+            widget: string
+          - hint: 'Original text: Stop by the , key: -3341da06'
+            label: Text
+            name: '-3341da06'
+            widget: string
+          - hint: 'Original text: Protocol Village, key: 61d19324'
+            label: Text
+            name: 61d19324
+            widget: string
+          - hint: >-
+              Original text:  sponsored by Filecoin Foundation at , key:
+              -20efd8f
+            label: Text
+            name: '-20efd8f'
+            widget: string
+          - hint: 'Original text: Consensus, key: 5d794c57'
+            label: Text
+            name: 5d794c57
+            widget: string
+          - hint: >-
+              Original text: , where developers discuss the future of the top
+              chains. Special discount code for Filecoin Foundation friends!,
+              key: -3a0403c5
+            label: Text
+            name: '-3a0403c5'
+            widget: text
+          - hint: >-
+              Original text: Input FilecoinC23 at check out and enjoy a 25%
+              discount!, key: 1db61b2d
+            label: Text
+            name: 1db61b2d
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -648,6 +697,17 @@ collections:
           - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
             label: Link
             name: 7c142b17
+            widget: string
+          - hint: >-
+              Original link:
+              https://consensus.coindesk.com/agenda/venue/-protocol-village,
+              key: -2e820053
+            label: Link
+            name: '-2e820053'
+            widget: string
+          - hint: 'Original link: https://consensus.coindesk.com/, key: -d7e5354'
+            label: Link
+            name: '-d7e5354'
             widget: string
       - label: Images
         name: images
