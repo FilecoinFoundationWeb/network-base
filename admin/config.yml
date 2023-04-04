@@ -396,10 +396,10 @@ collections:
             name: '-1f2dc793'
             widget: text
           - hint: >-
-              Original text: Time: Open daily from 10:00 AM to 8:00 PM, April
-              24th through 26th. , key: -28aec78
+              Original text: Time: Open daily from 9:00 AM to 7:00 PM, April
+              24th through 26th. , key: -34cb5f15
             label: Text
-            name: '-28aec78'
+            name: '-34cb5f15'
             widget: string
           - hint: >-
               Original text: Location: The Riley Building | 315 Lavaca St,

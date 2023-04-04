@@ -82,7 +82,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .wordmark {
@@ -104,7 +104,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .vectors-wrapper-3 {
@@ -116,7 +116,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .text {
@@ -249,7 +249,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .vectors-wrapper-5 {
@@ -261,7 +261,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .vectors-wrapper-6 {
@@ -273,7 +273,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .small-columns {
@@ -461,7 +461,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .frame-47426 {
@@ -492,7 +492,7 @@ img {
   grid-row-gap: 0px;
   color: #0090ff;
   -o-object-fit: contain;
-  object-fit: contain;
+     object-fit: contain;
 }
 
 .vectors-wrapper-10 {
@@ -504,7 +504,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .button-2 {
@@ -650,7 +650,7 @@ img {
   order: 0;
   flex: 0 auto;
   -o-object-fit: fill;
-  object-fit: fill;
+     object-fit: fill;
 }
 
 .column-4 {
@@ -686,7 +686,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .text-9 {
@@ -708,7 +708,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-0 {
@@ -792,7 +792,7 @@ img {
 
 .rectangle-3051 {
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .column-6 {
@@ -875,7 +875,7 @@ img {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   -o-object-fit: cover;
-  object-fit: cover;
+     object-fit: cover;
 }
 
 .a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23-0 {
@@ -965,7 +965,7 @@ img {
   float: none;
   clear: none;
   -o-object-fit: fill;
-  object-fit: fill;
+     object-fit: fill;
 }
 
 .image-38 {
@@ -1142,7 +1142,7 @@ img {
   grid-auto-columns: 1fr;
   grid-column-gap: 16px;
   grid-row-gap: 16px;
-  grid-template-areas: ".";
+      grid-template-areas: ".";
   -ms-grid-columns: 0.25fr 16px 1fr;
   grid-template-columns: 0.25fr 1fr;
   -ms-grid-rows: auto;
@@ -1523,7 +1523,7 @@ img {
   grid-auto-columns: 1fr;
   grid-column-gap: 16px;
   grid-row-gap: 16px;
-  grid-template-areas: ".";
+      grid-template-areas: ".";
   -ms-grid-columns: 0.25fr 16px 1fr;
   grid-template-columns: 0.25fr 1fr;
   -ms-grid-rows: auto 16px auto;
@@ -1684,7 +1684,7 @@ img {
     flex-direction: column;
     align-items: center;
     -ms-grid-row-align: auto;
-    align-self: auto;
+        align-self: auto;
   }
 
   .a-free-ticket-to-filecoin-destorhk-gets-you-full-day-access-to-web3-festival-on-the-15th-of-april-limit-one-ticket-per-application-full-access-pass-restricted-to-web3-festival-4-15-23 {
@@ -1757,9 +1757,9 @@ img {
     justify-content: center;
     flex-wrap: nowrap;
     -ms-grid-row-align: auto;
-    align-self: auto;
+        align-self: auto;
     -o-object-fit: scale-down;
-    object-fit: scale-down;
+       object-fit: scale-down;
   }
 
   .column-3 {
@@ -1812,7 +1812,7 @@ img {
     flex-direction: column;
     align-items: center;
     -ms-grid-row-align: auto;
-    align-self: auto;
+        align-self: auto;
   }
 
   .schedule-grid {
@@ -1928,7 +1928,7 @@ img {
 
   .frame-47426 {
     -ms-grid-row-align: auto;
-    align-self: auto;
+        align-self: auto;
   }
 
   .vectors-wrapper-9 {
@@ -1973,7 +1973,7 @@ img {
   .column-3 {
     width: 100vw;
     -ms-grid-row-align: center;
-    align-self: center;
+        align-self: center;
     border-radius: 0px;
     background-position: 50% 0%;
     background-size: contain;
@@ -1986,7 +1986,7 @@ img {
 
   .vectors-wrapper-11 {
     -o-object-fit: cover;
-    object-fit: cover;
+       object-fit: cover;
   }
 
   .register-here-to-join-the-filecoin-community-and-our-partners-this-april-at-the-fil-hong-kong-network-base-0 {
@@ -2238,220 +2238,220 @@ img {
 
 #w-node-_69f2010c-cb02-3dcd-077a-2722e003b94e-10628a33 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-bc352aa4-9b54-798e-62d4-3a66540e5e63-10628a33 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d5c4-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d5ce-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d5d8-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d5e2-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d5ec-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d5fa-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d604-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d60e-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d617-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d639-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d643-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d64e-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d658-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d662-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d66b-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d674-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-ff1c436c-6b61-cbc7-8ff0-89aa40d2d67e-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
 
 #w-node-e837e73c-2bca-5402-05df-228a03e49588-173b5b94 {
   -ms-grid-column: span 1;
-  grid-column-start: span 1;
+      grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
   -ms-grid-row: span 1;
-  grid-row-start: span 1;
+      grid-row-start: span 1;
   -ms-grid-row-span: 1;
   grid-row-end: span 1;
 }
