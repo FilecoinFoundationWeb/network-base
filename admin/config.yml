@@ -285,6 +285,22 @@ collections:
             label: Text
             name: '-4ad5204b'
             widget: string
+          - hint: 'Original text: Home, key: 2268ff'
+            label: Text
+            name: 2268ff
+            widget: string
+          - hint: 'Original text: Speakers, key: -7b61fb8c'
+            label: Text
+            name: '-7b61fb8c'
+            widget: string
+          - hint: 'Original text: Schedule, key: -25bf0949'
+            label: Text
+            name: '-25bf0949'
+            widget: string
+          - hint: 'Original text: Register Now, key: -5c16c827'
+            label: Text
+            name: '-5c16c827'
+            widget: string
           - hint: >-
               Original text: Register here to join the Filecoin community and
               our partners this April 24-26 at the , key: 2b0d9730
@@ -381,10 +397,6 @@ collections:
             label: Text
             name: 25b5eb92
             widget: string
-          - hint: 'Original text: Register Now, key: -5c16c827'
-            label: Text
-            name: '-5c16c827'
-            widget: string
           - hint: >-
               Original text: Visit our co-working space to catch a lightning
               talk, participate in workshops with developers, and learn about
@@ -407,9 +419,49 @@ collections:
             label: Text
             name: '62911e68'
             widget: string
-          - hint: 'Original text: Schedule, key: -25bf0949'
+          - hint: 'Original text: Check this out, key: -73d004fc'
             label: Text
-            name: '-25bf0949'
+            name: '-73d004fc'
+            widget: string
+          - hint: 'Original text: Marta Belcher, key: 26c060c6'
+            label: Text
+            name: 26c060c6
+            widget: string
+          - hint: 'Original text: President and Chair, , key: 1d105f10'
+            label: Text
+            name: 1d105f10
+            widget: string
+          - hint: 'Original text: Filecoin Foundation, key: 4b1a20a6'
+            label: Text
+            name: 4b1a20a6
+            widget: string
+          - hint: 'Original text: Prashant Maurya, key: 77aea286'
+            label: Text
+            name: 77aea286
+            widget: string
+          - hint: 'Original text: CEO & Co-founder, , key: -11353091'
+            label: Text
+            name: '-11353091'
+            widget: string
+          - hint: 'Original text: Spheron Network, key: -622c8dbb'
+            label: Text
+            name: '-622c8dbb'
+            widget: string
+          - hint: 'Original text: John Solly, key: 10af4fc8'
+            label: Text
+            name: 10af4fc8
+            widget: string
+          - hint: 'Original text: Lead Geospatial Developer, , key: -3823d82b'
+            label: Text
+            name: '-3823d82b'
+            widget: string
+          - hint: 'Original text: EASIER Data Initiative, key: -fc155bf'
+            label: Text
+            name: '-fc155bf'
+            widget: string
+          - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
+            label: Text
+            name: 1d5c84b2
             widget: string
           - hint: 'Original text: Mon, April 24th, key: -afa9cf0'
             label: Text
@@ -688,11 +740,38 @@ collections:
             label: Link
             name: 9d271d5
             widget: string
+          - hint: 'Original link: #, key: 23'
+            label: Link
+            name: '23'
+            widget: string
+          - hint: 'Original link: https://networkbase.io/austin/, key: -ea93116'
+            label: Link
+            name: '-ea93116'
+            widget: string
+          - hint: >-
+              Original link: https://networkbase.io/austin-speakers/, key:
+              42afe073
+            label: Link
+            name: 42afe073
+            widget: string
+          - hint: >-
+              Original link: https://networkbase.io/austin-schedule, key:
+              -7eec0681
+            label: Link
+            name: '-7eec0681'
+            widget: string
           - hint: >-
               Original link: http://networkbase.io/register-austin, key:
               -5b423c24
             label: Link
             name: '-5b423c24'
+            widget: string
+          - hint: >-
+              Original link:
+              https://fil-foundation.on.fleek.co/hosting/FF%20Event%20Sponsorship%20Opportunites.pdf,
+              key: -721dcdb7
+            label: Link
+            name: '-721dcdb7'
             widget: string
           - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
             label: Link
@@ -783,6 +862,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 6f356dc
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: '76412e4'
             widget: object
             fields:
@@ -810,6 +902,58 @@ collections:
                 required: false
           - label: Image
             name: '-c0ec661'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: deda7a0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '11270333'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-4960fc62'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5c60e1dd'
             widget: object
             fields:
               - name: url
