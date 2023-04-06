@@ -691,6 +691,174 @@ collections:
             label: Text
             name: 1db61b2d
             widget: string
+          - hint: 'Original text: Juan Benet, key: -4dd264ee'
+            label: Text
+            name: '-4dd264ee'
+            widget: string
+          - hint: 'Original text: Founder and CEO, , key: -44651c79'
+            label: Text
+            name: '-44651c79'
+            widget: string
+          - hint: 'Original text: Protocol Labs, key: 5644f50e'
+            label: Text
+            name: 5644f50e
+            widget: string
+          - hint: 'Original text: Kiran Karra, key: 29c271ec'
+            label: Text
+            name: 29c271ec
+            widget: string
+          - hint: 'Original text: Research Scientist, , key: 381d4187'
+            label: Text
+            name: 381d4187
+            widget: string
+          - hint: 'Original text: CryptoEconLab, key: 44922d2f'
+            label: Text
+            name: 44922d2f
+            widget: string
+          - hint: 'Original text: Jiasun Li, key: 4d408153'
+            label: Text
+            name: 4d408153
+            widget: string
+          - hint: 'Original text: Assistant Professor, , key: -7f804a5f'
+            label: Text
+            name: '-7f804a5f'
+            widget: string
+          - hint: 'Original text: George Mason University, key: -2746194f'
+            label: Text
+            name: '-2746194f'
+            widget: string
+          - hint: 'Original text: Hao Chung, key: 39e1301f'
+            label: Text
+            name: 39e1301f
+            widget: string
+          - hint: 'Original text: PhD Student, , key: -3f1c2525'
+            label: Text
+            name: '-3f1c2525'
+            widget: string
+          - hint: 'Original text: Carnegie Mellon University, key: -2c113d51'
+            label: Text
+            name: '-2c113d51'
+            widget: string
+          - hint: 'Original text: Miko Matsumura, key: -34d94f87'
+            label: Text
+            name: '-34d94f87'
+            widget: string
+          - hint: 'Original text: Managing Partner, , key: 28fa927e'
+            label: Text
+            name: 28fa927e
+            widget: string
+          - hint: 'Original text: gumi Cryptos Capital, key: -23a81e3c'
+            label: Text
+            name: '-23a81e3c'
+            widget: string
+          - hint: 'Original text: Cesare Fracassi, key: -77484bed'
+            label: Text
+            name: '-77484bed'
+            widget: string
+          - hint: >-
+              Original text: Chief Economist / Associate Professor of Finance, ,
+              key: 1f25c3f5
+            label: Text
+            name: 1f25c3f5
+            widget: string
+          - hint: 'Original text: Coinbase Institute / Univ of Texas, key: -66766fd0'
+            label: Text
+            name: '-66766fd0'
+            widget: string
+          - hint: 'Original text: Mustafa Qazi, key: 60717b4c'
+            label: Text
+            name: 60717b4c
+            widget: string
+          - hint: 'Original text: Researcher Engineer, , key: -2db7b045'
+            label: Text
+            name: '-2db7b045'
+            widget: string
+          - hint: 'Original text: 6th Man Ventures, key: -5f584a44'
+            label: Text
+            name: '-5f584a44'
+            widget: string
+          - hint: 'Original text: David Shuttleworth, key: -734c421f'
+            label: Text
+            name: '-734c421f'
+            widget: string
+          - hint: 'Original text: VC & MA Lead, , key: 318218f'
+            label: Text
+            name: 318218f
+            widget: string
+          - hint: 'Original text: Binance Labs, key: -6dec430'
+            label: Text
+            name: '-6dec430'
+            widget: string
+          - hint: 'Original text: David Sneider, key: -185d0a7a'
+            label: Text
+            name: '-185d0a7a'
+            widget: string
+          - hint: 'Original text: Co-founder and CEO, , key: 2ab6e0a6'
+            label: Text
+            name: 2ab6e0a6
+            widget: string
+          - hint: 'Original text: Lit Protocol, key: 5d447e41'
+            label: Text
+            name: 5d447e41
+            widget: string
+          - hint: 'Original text: April 27, 11:25 AM, key: 6400242'
+            label: Text
+            name: '6400242'
+            widget: string
+          - hint: >-
+              Original text: Chelsea Manning and the Struggle for Digital
+              Privacy, key: -3357a153
+            label: Text
+            name: '-3357a153'
+            widget: string
+          - hint: >-
+              Original text: Chelsea Manning doesn’t just espouse the cypherpunk
+              ethos that inspired the creation of cryptocurrency; she has lived
+              it. The activist, whistleblower and former intelligence analyst
+              learned firsthand the power, and limitations, of
+              privacy-preserving technologies when she leaked U.S. military
+              documents – and served nearly seven years in prison. Manning
+              reflects on the state of government and corporate surveillance and
+              the technological, political and cultural changes required to
+              combat it., key: -4b72bdff
+            label: Text
+            name: '-4b72bdff'
+            widget: text
+          - hint: 'Original text: April 27, 2:00 PM, key: 2b212782'
+            label: Text
+            name: 2b212782
+            widget: string
+          - hint: >-
+              Original text: Crypto in the Age of Financial Surveillance: A
+              Fireside Chat with Marta Belcher, key: 53de0af3
+            label: Text
+            name: 53de0af3
+            widget: string
+          - hint: >-
+              Original text: Filecoin Foundation president and civil liberties
+              attorney Marta Belcher sits down to talk about the implications of
+              rapidly expanding financial surveillance for the cryptocurrency
+              space and for our civil liberties., key: -1f54a0bf
+            label: Text
+            name: '-1f54a0bf'
+            widget: text
+          - hint: 'Original text: April 28, 1:45 PM, key: -1540fec1'
+            label: Text
+            name: '-1540fec1'
+            widget: string
+          - hint: 'Original text: Deep Dive: Filecoin, key: -3ced7e05'
+            label: Text
+            name: '-3ced7e05'
+            widget: string
+          - hint: >-
+              Original text: Join an hourlong exploration of the advancements
+              defining the Filecoin community in 2023. Learn about the tech
+              upgrades, promising projects and other pressing issues that are
+              shaping the evolution of Filecoin. For BUIDLers and investors
+              alike, key: -5fdeb841
+            label: Text
+            name: '-5fdeb841'
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -787,6 +955,20 @@ collections:
           - hint: 'Original link: https://consensus.coindesk.com/, key: -d7e5354'
             label: Link
             name: '-d7e5354'
+            widget: string
+          - hint: >-
+              Original link:
+              https://consensus.coindesk.com/agenda/event/-chelsea-manning-and-the-struggle-for-digital-privacy-39,
+              key: 5a31ff98
+            label: Link
+            name: 5a31ff98
+            widget: string
+          - hint: >-
+              Original link:
+              https://consensus.coindesk.com/agenda/event/-deep-dive-filecoin-23,
+              key: 60a86a68
+            label: Link
+            name: 60a86a68
             widget: string
       - label: Images
         name: images
@@ -954,6 +1136,123 @@ collections:
                 required: false
           - label: Image
             name: '-5c60e1dd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-39c63986'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 54235aa0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3988b07f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: c4840d3
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-34168e1f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2b9b3fff'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1c0ce36e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-58f5ccfd'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-609b5a49'
             widget: object
             fields:
               - name: url
