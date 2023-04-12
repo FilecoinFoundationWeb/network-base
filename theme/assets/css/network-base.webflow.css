@@ -1967,6 +1967,14 @@ img {
   }
 
   .button-2.primary {
+    display: block;
+  }
+
+  .button-2.primary.on-page {
+    display: block;
+  }
+
+  .button-2.primary.navbar {
     display: none;
   }
 
@@ -2657,7 +2665,7 @@ img {
   }
 
   .button-text {
-    font-size: 23.04px;
+    font-size: 18.432px;
   }
 
   ._16px-header {

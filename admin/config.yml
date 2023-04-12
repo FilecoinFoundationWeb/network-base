@@ -423,6 +423,18 @@ collections:
             label: Text
             name: '-73d004fc'
             widget: string
+          - hint: 'Original text: Juan Benet, key: -4dd264ee'
+            label: Text
+            name: '-4dd264ee'
+            widget: string
+          - hint: 'Original text: Founder and CEO, , key: -44651c79'
+            label: Text
+            name: '-44651c79'
+            widget: string
+          - hint: 'Original text: Protocol Labs, key: 5644f50e'
+            label: Text
+            name: 5644f50e
+            widget: string
           - hint: 'Original text: Marta Belcher, key: 26c060c6'
             label: Text
             name: 26c060c6
@@ -434,6 +446,30 @@ collections:
           - hint: 'Original text: Filecoin Foundation, key: 4b1a20a6'
             label: Text
             name: 4b1a20a6
+            widget: string
+          - hint: 'Original text: Kiran Karra, key: 29c271ec'
+            label: Text
+            name: 29c271ec
+            widget: string
+          - hint: 'Original text: Research Scientist, , key: 381d4187'
+            label: Text
+            name: 381d4187
+            widget: string
+          - hint: 'Original text: CryptoEconLab, key: 44922d2f'
+            label: Text
+            name: 44922d2f
+            widget: string
+          - hint: 'Original text: John Solly, key: 10af4fc8'
+            label: Text
+            name: 10af4fc8
+            widget: string
+          - hint: 'Original text: Lead Geospatial Developer, , key: -3823d82b'
+            label: Text
+            name: '-3823d82b'
+            widget: string
+          - hint: 'Original text: EASIER Data Initiative, key: -fc155bf'
+            label: Text
+            name: '-fc155bf'
             widget: string
           - hint: 'Original text: Prashant Maurya, key: 77aea286'
             label: Text
@@ -447,17 +483,91 @@ collections:
             label: Text
             name: '-622c8dbb'
             widget: string
-          - hint: 'Original text: John Solly, key: 10af4fc8'
+          - hint: 'Original text: Jiasun Li, key: 4d408153'
             label: Text
-            name: 10af4fc8
+            name: 4d408153
             widget: string
-          - hint: 'Original text: Lead Geospatial Developer, , key: -3823d82b'
+          - hint: 'Original text: Assistant Professor, , key: -7f804a5f'
             label: Text
-            name: '-3823d82b'
+            name: '-7f804a5f'
             widget: string
-          - hint: 'Original text: EASIER Data Initiative, key: -fc155bf'
+          - hint: 'Original text: George Mason University, key: -2746194f'
             label: Text
-            name: '-fc155bf'
+            name: '-2746194f'
+            widget: string
+          - hint: 'Original text: Hao Chung, key: 39e1301f'
+            label: Text
+            name: 39e1301f
+            widget: string
+          - hint: 'Original text: PhD Student, , key: -3f1c2525'
+            label: Text
+            name: '-3f1c2525'
+            widget: string
+          - hint: 'Original text: Carnegie Mellon University, key: -2c113d51'
+            label: Text
+            name: '-2c113d51'
+            widget: string
+          - hint: 'Original text: Miko Matsumura, key: -34d94f87'
+            label: Text
+            name: '-34d94f87'
+            widget: string
+          - hint: 'Original text: Managing Partner, , key: 28fa927e'
+            label: Text
+            name: 28fa927e
+            widget: string
+          - hint: 'Original text: gumi Cryptos Capital, key: -23a81e3c'
+            label: Text
+            name: '-23a81e3c'
+            widget: string
+          - hint: 'Original text: Cesare Fracassi, key: -77484bed'
+            label: Text
+            name: '-77484bed'
+            widget: string
+          - hint: >-
+              Original text: Chief Economist / Associate Professor of Finance, ,
+              key: 1f25c3f5
+            label: Text
+            name: 1f25c3f5
+            widget: string
+          - hint: 'Original text: Coinbase Institute / Univ of Texas, key: -66766fd0'
+            label: Text
+            name: '-66766fd0'
+            widget: string
+          - hint: 'Original text: Mustafa Qazi, key: 60717b4c'
+            label: Text
+            name: 60717b4c
+            widget: string
+          - hint: 'Original text: Researcher Engineer, , key: -2db7b045'
+            label: Text
+            name: '-2db7b045'
+            widget: string
+          - hint: 'Original text: 6th Man Ventures, key: -5f584a44'
+            label: Text
+            name: '-5f584a44'
+            widget: string
+          - hint: 'Original text: David Shuttleworth, key: -734c421f'
+            label: Text
+            name: '-734c421f'
+            widget: string
+          - hint: 'Original text: VC & MA Lead, , key: 318218f'
+            label: Text
+            name: 318218f
+            widget: string
+          - hint: 'Original text: Binance Labs, key: -6dec430'
+            label: Text
+            name: '-6dec430'
+            widget: string
+          - hint: 'Original text: David Sneider, key: -185d0a7a'
+            label: Text
+            name: '-185d0a7a'
+            widget: string
+          - hint: 'Original text: Co-founder and CEO, , key: 2ab6e0a6'
+            label: Text
+            name: 2ab6e0a6
+            widget: string
+          - hint: 'Original text: Lit Protocol, key: 5d447e41'
+            label: Text
+            name: 5d447e41
             widget: string
           - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
             label: Text
@@ -690,116 +800,6 @@ collections:
               discount!, key: 1db61b2d
             label: Text
             name: 1db61b2d
-            widget: string
-          - hint: 'Original text: Juan Benet, key: -4dd264ee'
-            label: Text
-            name: '-4dd264ee'
-            widget: string
-          - hint: 'Original text: Founder and CEO, , key: -44651c79'
-            label: Text
-            name: '-44651c79'
-            widget: string
-          - hint: 'Original text: Protocol Labs, key: 5644f50e'
-            label: Text
-            name: 5644f50e
-            widget: string
-          - hint: 'Original text: Kiran Karra, key: 29c271ec'
-            label: Text
-            name: 29c271ec
-            widget: string
-          - hint: 'Original text: Research Scientist, , key: 381d4187'
-            label: Text
-            name: 381d4187
-            widget: string
-          - hint: 'Original text: CryptoEconLab, key: 44922d2f'
-            label: Text
-            name: 44922d2f
-            widget: string
-          - hint: 'Original text: Jiasun Li, key: 4d408153'
-            label: Text
-            name: 4d408153
-            widget: string
-          - hint: 'Original text: Assistant Professor, , key: -7f804a5f'
-            label: Text
-            name: '-7f804a5f'
-            widget: string
-          - hint: 'Original text: George Mason University, key: -2746194f'
-            label: Text
-            name: '-2746194f'
-            widget: string
-          - hint: 'Original text: Hao Chung, key: 39e1301f'
-            label: Text
-            name: 39e1301f
-            widget: string
-          - hint: 'Original text: PhD Student, , key: -3f1c2525'
-            label: Text
-            name: '-3f1c2525'
-            widget: string
-          - hint: 'Original text: Carnegie Mellon University, key: -2c113d51'
-            label: Text
-            name: '-2c113d51'
-            widget: string
-          - hint: 'Original text: Miko Matsumura, key: -34d94f87'
-            label: Text
-            name: '-34d94f87'
-            widget: string
-          - hint: 'Original text: Managing Partner, , key: 28fa927e'
-            label: Text
-            name: 28fa927e
-            widget: string
-          - hint: 'Original text: gumi Cryptos Capital, key: -23a81e3c'
-            label: Text
-            name: '-23a81e3c'
-            widget: string
-          - hint: 'Original text: Cesare Fracassi, key: -77484bed'
-            label: Text
-            name: '-77484bed'
-            widget: string
-          - hint: >-
-              Original text: Chief Economist / Associate Professor of Finance, ,
-              key: 1f25c3f5
-            label: Text
-            name: 1f25c3f5
-            widget: string
-          - hint: 'Original text: Coinbase Institute / Univ of Texas, key: -66766fd0'
-            label: Text
-            name: '-66766fd0'
-            widget: string
-          - hint: 'Original text: Mustafa Qazi, key: 60717b4c'
-            label: Text
-            name: 60717b4c
-            widget: string
-          - hint: 'Original text: Researcher Engineer, , key: -2db7b045'
-            label: Text
-            name: '-2db7b045'
-            widget: string
-          - hint: 'Original text: 6th Man Ventures, key: -5f584a44'
-            label: Text
-            name: '-5f584a44'
-            widget: string
-          - hint: 'Original text: David Shuttleworth, key: -734c421f'
-            label: Text
-            name: '-734c421f'
-            widget: string
-          - hint: 'Original text: VC & MA Lead, , key: 318218f'
-            label: Text
-            name: 318218f
-            widget: string
-          - hint: 'Original text: Binance Labs, key: -6dec430'
-            label: Text
-            name: '-6dec430'
-            widget: string
-          - hint: 'Original text: David Sneider, key: -185d0a7a'
-            label: Text
-            name: '-185d0a7a'
-            widget: string
-          - hint: 'Original text: Co-founder and CEO, , key: 2ab6e0a6'
-            label: Text
-            name: 2ab6e0a6
-            widget: string
-          - hint: 'Original text: Lit Protocol, key: 5d447e41'
-            label: Text
-            name: 5d447e41
             widget: string
           - hint: 'Original text: April 27, 11:25 AM, key: 6400242'
             label: Text
@@ -1096,6 +1096,19 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-39c63986'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: deda7a0
             widget: object
             fields:
@@ -1109,7 +1122,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '11270333'
+            name: 54235aa0
             widget: object
             fields:
               - name: url
@@ -1135,33 +1148,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5c60e1dd'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-39c63986'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 54235aa0
+            name: '11270333'
             widget: object
             fields:
               - name: url
@@ -1253,6 +1240,19 @@ collections:
                 required: false
           - label: Image
             name: '-609b5a49'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-5c60e1dd'
             widget: object
             fields:
               - name: url
