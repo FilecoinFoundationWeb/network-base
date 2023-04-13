@@ -1812,12 +1812,17 @@ img {
   width: 150px;
   height: 150px;
   border-radius: 100%;
-  -o-object-fit: fill;
-     object-fit: fill;
+  background-color: #fff;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: 50% 0%;
+     object-position: 50% 0%;
 }
 
 .grid-2 {
-  width: 100%;
+  width: 90vw;
+  -ms-grid-row-align: center;
+      align-self: center;
   grid-column-gap: 50px;
   grid-row-gap: 150px;
   -ms-grid-columns: 1fr 1fr 1fr;
@@ -1890,6 +1895,11 @@ img {
     font-weight: 700;
     text-transform: uppercase;
   }
+
+  .grid-2 {
+    -ms-grid-row-align: center;
+        align-self: center;
+  }
 }
 
 @media screen and (min-width: 1920px) {
@@ -1902,6 +1912,7 @@ img {
   }
 
   .main-div.networking.grid {
+    width: 90vw;
     max-width: none;
     padding-right: 100px;
     padding-left: 100px;
@@ -1912,7 +1923,9 @@ img {
   }
 
   .grid-2 {
-    max-width: none;
+    justify-items: stretch;
+    -ms-grid-row-align: center;
+        align-self: center;
   }
 
   .section-p {
@@ -2958,6 +2971,50 @@ img {
 }
 
 #w-node-f7ba4c3d-6dd8-edee-f26b-8e3f40b7e1b9-1c0f1c5c {
+  -ms-grid-column: span 1;
+      grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+      grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-a08fa081-4344-c467-8444-5aaaad171171-1c0f1c5c {
+  -ms-grid-column: span 1;
+      grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+      grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_80c229da-2dd8-2699-2eb4-419c856df508-1c0f1c5c {
+  -ms-grid-column: span 1;
+      grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+      grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_1e6c662b-32c9-5350-5bd6-43262fcedf77-1c0f1c5c {
+  -ms-grid-column: span 1;
+      grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+  -ms-grid-row: span 1;
+      grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+}
+
+#w-node-_02378923-adf8-b48a-81a5-3b5f8c2add53-1c0f1c5c {
   -ms-grid-column: span 1;
       grid-column-start: span 1;
   -ms-grid-column-span: 1;

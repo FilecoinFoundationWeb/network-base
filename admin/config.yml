@@ -569,6 +569,50 @@ collections:
             label: Text
             name: 5d447e41
             widget: string
+          - hint: 'Original text: Garret Kinsman, key: -7bde9b80'
+            label: Text
+            name: '-7bde9b80'
+            widget: string
+          - hint: 'Original text: Co-founder, , key: -6fe9b29e'
+            label: Text
+            name: '-6fe9b29e'
+            widget: string
+          - hint: 'Original text: Nodle, key: 47f235c'
+            label: Text
+            name: 47f235c
+            widget: string
+          - hint: 'Original text: Catherine Stihler, key: c1ead7a'
+            label: Text
+            name: c1ead7a
+            widget: string
+          - hint: 'Original text: CEO, , key: 3d0b261'
+            label: Text
+            name: 3d0b261
+            widget: string
+          - hint: 'Original text: Creative Commons, key: -37cd2389'
+            label: Text
+            name: '-37cd2389'
+            widget: string
+          - hint: 'Original text: Andrew Hill, key: -619354ec'
+            label: Text
+            name: '-619354ec'
+            widget: string
+          - hint: 'Original text: Tableland, key: f65699'
+            label: Text
+            name: f65699
+            widget: string
+          - hint: 'Original text: Stephen Fluin, key: -63705187'
+            label: Text
+            name: '-63705187'
+            widget: string
+          - hint: 'Original text: Head of Developer Relations, , key: 6e7fcaac'
+            label: Text
+            name: 6e7fcaac
+            widget: string
+          - hint: 'Original text: Axelar Network, key: 63d9bedd'
+            label: Text
+            name: 63d9bedd
+            widget: string
           - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
             label: Text
             name: 1d5c84b2
@@ -1240,6 +1284,58 @@ collections:
                 required: false
           - label: Image
             name: '-609b5a49'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7d833414
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-2167b5e8'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 75d5edaf
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-41bc3c1c'
             widget: object
             fields:
               - name: url
