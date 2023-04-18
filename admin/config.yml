@@ -205,9 +205,13 @@ collections:
             label: Text
             name: 33b84301
             widget: string
-          - hint: 'Original text: April 12th-15th, key: -4ef26f2a'
+          - hint: 'Original text: April , key: 754ab27a'
             label: Text
-            name: '-4ef26f2a'
+            name: 754ab27a
+            widget: string
+          - hint: 'Original text: 12-15, key: 2c9e950'
+            label: Text
+            name: 2c9e950
             widget: string
           - hint: 'Original text: Center Space, key: -51f81e85'
             label: Text
@@ -229,9 +233,9 @@ collections:
             label: Text
             name: '-787bac51'
             widget: text
-          - hint: 'Original text: April 24th-26th, key: 1514d1b5'
+          - hint: 'Original text: 24-26, key: 2d8e9af'
             label: Text
-            name: 1514d1b5
+            name: 2d8e9af
             widget: string
           - hint: 'Original text: The Riley, key: -bec0026'
             label: Text
@@ -860,6 +864,10 @@ collections:
             label: Text
             name: 1eba79c0
             widget: string
+          - hint: 'Original text: 1pm - 5pm, key: -6d374e33'
+            label: Text
+            name: '-6d374e33'
+            widget: string
           - hint: 'Original text: 1pm - 6pm, key: -6d374a72'
             label: Text
             name: '-6d374a72'
@@ -869,10 +877,14 @@ collections:
             name: '-56a27309'
             widget: string
           - hint: >-
-              Original text: Join us for a day full of Filecoin program!Talks
-              and panels by:, key: -6b3ef29a
+              Original text: Join us for a day full of Filecoin program!, key:
+              -43906dae
             label: Text
-            name: '-6b3ef29a'
+            name: '-43906dae'
+            widget: string
+          - hint: 'Original text: Talks and panels by:, key: 20cfd814'
+            label: Text
+            name: 20cfd814
             widget: string
           - hint: 'Original text: Marta Belcher - Filecoin Foundation, key: -267bafa7'
             label: Text
@@ -951,10 +963,6 @@ collections:
             label: Text
             name: 5792b0dd
             widget: text
-          - hint: 'Original text: 1pm - 5pm, key: -6d374e33'
-            label: Text
-            name: '-6d374e33'
-            widget: string
           - hint: 'Original text: 2pm - 2:30pm, key: 688b6a06'
             label: Text
             name: 688b6a06
