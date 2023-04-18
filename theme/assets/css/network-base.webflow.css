@@ -551,6 +551,10 @@ img {
   font-weight: 700;
 }
 
+.button-2.primary.button-text {
+  display: none;
+}
+
 .button-2.secondary {
   background-color: #172736;
   box-shadow: 8px -8px 0 0 #0090ff;
@@ -1040,6 +1044,10 @@ img {
   align-items: flex-start;
 }
 
+.details.hide {
+  display: none;
+}
+
 .h2 {
   color: #003662;
   font-weight: 500;
@@ -1228,6 +1236,10 @@ img {
   font-weight: 600;
   text-align: right;
   letter-spacing: 0em;
+}
+
+._16px-header.hide {
+  display: none;
 }
 
 ._25px-header {
@@ -1647,6 +1659,7 @@ img {
   justify-content: space-between;
   align-items: center;
   flex: 1;
+  background-color: transparent;
 }
 
 .main-button {
@@ -1873,8 +1886,16 @@ img {
     max-width: 1140px;
   }
 
+  .div-block-9 {
+    display: none;
+  }
+
   .navbar-logo-left-container.shadow-three {
     padding-right: 60px;
+  }
+
+  .nav-menu-wrapper {
+    background-color: transparent;
   }
 
   .main-button {
@@ -1935,6 +1956,7 @@ img {
 }
 
 @media screen and (max-width: 991px) {
+
   .text {
     min-width: auto;
   }
@@ -1989,6 +2011,10 @@ img {
 
   .button-2.primary.navbar {
     display: none;
+  }
+
+  .button-2.primary.button-text {
+    display: block;
   }
 
   .footer-2 {
@@ -2109,7 +2135,9 @@ img {
   }
 
   .nav-menu-two {
+    z-index: 10;
     display: flex;
+    width: 100vw;
     margin-top: 10px;
     padding: 20px;
     flex-direction: column;
@@ -2117,7 +2145,9 @@ img {
     flex-wrap: nowrap;
     align-items: center;
     border-radius: 0px;
-    background-color: #f7efd4;
+    background-color: #000;
+    -o-object-fit: fill;
+       object-fit: fill;
   }
 
   .list-item-3 {
@@ -2134,7 +2164,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f7efd4;
   }
 
   .list-item {
@@ -2148,13 +2177,18 @@ img {
   }
 
   .menu-button.w--open {
-    background-color: hsla(0, 0%, 78.4%, 0);
+    background-color: transparent;
     color: #fff;
   }
 
   .navbar-logo-left-container.shadow-three {
+    width: 100vw;
     padding-top: 20px;
     padding-bottom: 20px;
+  }
+
+  .navbar-wrapper {
+    z-index: 20;
   }
 
   .nav-menu-wrapper {
@@ -2162,7 +2196,7 @@ img {
     justify-content: center;
     align-items: center;
     flex: 0 auto;
-    background-color: transparent;
+    background-color: #000;
   }
 
   .main-button._2.mobile {
@@ -2368,11 +2402,6 @@ img {
     padding-bottom: 40px;
     flex-direction: column;
     border-radius: 0px;
-    background-color: #f7efd4;
-  }
-
-  .menu-button.w--open {
-    background-color: #f7efd4;
   }
 
   .navbar-logo-left-container {
@@ -2767,6 +2796,8 @@ img {
   }
 
   .nav-menu-two {
+    overflow: visible;
+    width: 100vw;
     flex-direction: column;
   }
 
