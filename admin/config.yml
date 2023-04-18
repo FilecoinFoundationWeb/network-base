@@ -653,10 +653,6 @@ collections:
             label: Text
             name: '-4f8f6573'
             widget: text
-          - hint: 'Original text: 9am - 1pm, key: 1eba79c0'
-            label: Text
-            name: 1eba79c0
-            widget: string
           - hint: 'Original text: 2nd + 3rd Floor, key: -85db6bc'
             label: Text
             name: '-85db6bc'
@@ -668,29 +664,66 @@ collections:
           - hint: >-
               Original text: Boost your productivity with our professional
               workspace, complete with high-speed internet, comfortable seating,
-              and complimentary coffee and snacks., key: 2576c9c8
+              rooftop views and complimentary coffee and snacks. Meet the
+              Filecoin team and learn the latest with our network!, key:
+              -32b98b73
             label: Text
-            name: 2576c9c8
+            name: '-32b98b73'
             widget: text
-          - hint: 'Original text: 1pm - 7pm, key: -6d3746b1'
+          - hint: 'Original text: 2pm - 6pm, key: 270d248f'
             label: Text
-            name: '-6d3746b1'
+            name: 270d248f
             widget: string
           - hint: 'Original text: 2nd Floor, key: 7cb66334'
             label: Text
             name: 7cb66334
             widget: string
-          - hint: 'Original text: Program, key: 50c7b664'
+          - hint: 'Original text: Chess meet-up!, key: 2c77a0'
             label: Text
-            name: 50c7b664
+            name: 2c77a0
             widget: string
-          - hint: 'Original text: Stay tuned for upcoming program!, key: 7900ba2f'
+          - hint: >-
+              Original text: Attention all crypto and chess enthusiasts! Our
+              upcoming chess meet-up is the perfect opportunity for Gigabrains
+              of all levels to gather and enjoy the thrill of in-person
+              competition. Come join us for a day of friendly games where we'll
+              provide the boards and pieces, and players can battle it out to
+              prove their strategic skills. Even if you're not playing, we
+              welcome you to come watch and support your fellow chess
+              aficionados., key: 6366f7ae
             label: Text
-            name: 7900ba2f
+            name: 6366f7ae
+            widget: text
+          - hint: 'Original text: 6pm - 9pm, key: 781eebd6'
+            label: Text
+            name: 781eebd6
             widget: string
-          - hint: 'Original text: 3rd Floor, key: -4f807a4f'
+          - hint: 'Original text: Gaming on Filecoin Mixer, key: 54f0f306'
             label: Text
-            name: '-4f807a4f'
+            name: 54f0f306
+            widget: string
+          - hint: >-
+              Original text: The Filecoin and IPFS tech stack is foundational
+              for immutable and interoperable Web3 games. Join the community for
+              talks, live demos and a reception exploring the overlap of these
+              exciting ecosystems. , key: -546cc1b6
+            label: Text
+            name: '-546cc1b6'
+            widget: text
+          - hint: >-
+              Original text: Speakers | Second floorJacob Homanics - ATX DAO |
+              Crossing the Chasm: Web2 to Web3 Game Development using IPFSBZ -
+              Flow | How Filecoin and IPFS Enable Web3 Games on FlowLeon Do -
+              Game7/Hyperplay/Open Source | Quest to Discovering the Web3 Gaming
+              Tech Stack, key: 20c3b18b
+            label: Text
+            name: 20c3b18b
+            widget: text
+          - hint: >-
+              Original text: Happy Hour | 7 PM, third floorDJ set by fennec with
+              vintage deep house vibes!, key: 57c01abd
+            label: Text
+            name: 57c01abd
             widget: string
           - hint: 'Original text: Tues, April 25th, key: -26eff18c'
             label: Text
@@ -700,6 +733,13 @@ collections:
             label: Text
             name: 78e465a5
             widget: string
+          - hint: >-
+              Original text: Boost your productivity with our professional
+              workspace, complete with high-speed internet, comfortable seating,
+              and complimentary coffee and snacks., key: 2576c9c8
+            label: Text
+            name: 2576c9c8
+            widget: text
           - hint: 'Original text: 12:30pm - 7pm, key: -7343218c'
             label: Text
             name: '-7343218c'
@@ -768,6 +808,14 @@ collections:
             label: Text
             name: 3b71e448
             widget: string
+          - hint: 'Original text: David Sneider - Lit Protocol, key: 68dd952e'
+            label: Text
+            name: 68dd952e
+            widget: string
+          - hint: 'Original text: 3rd Floor, key: -4f807a4f'
+            label: Text
+            name: '-4f807a4f'
+            widget: string
           - hint: 'Original text: 7pm - 9pm, key: c635ad7'
             label: Text
             name: c635ad7
@@ -776,6 +824,13 @@ collections:
             label: Text
             name: '-82f24d5'
             widget: string
+          - hint: >-
+              Original text: Filecoin Foundation and Fluence invites you to join
+              our happy hour, with a DJ set by fennec with some vintage deep
+              house vibes!, key: -6d5a90ca
+            label: Text
+            name: '-6d5a90ca'
+            widget: text
           - hint: 'Original text: Wed, April 26th, key: 53cf6fdc'
             label: Text
             name: 53cf6fdc
@@ -784,9 +839,199 @@ collections:
             label: Text
             name: 1eba8c85
             widget: string
+          - hint: 'Original text: 9am - 1pm, key: 1eba79c0'
+            label: Text
+            name: 1eba79c0
+            widget: string
+          - hint: 'Original text: 1pm - 6pm, key: -6d374a72'
+            label: Text
+            name: '-6d374a72'
+            widget: string
+          - hint: 'Original text: Program, key: 50c7b664'
+            label: Text
+            name: 50c7b664
+            widget: string
+          - hint: >-
+              Original text: Join us for a day full of Filecoin program!Talks
+              and panels by:, key: -6b3ef29a
+            label: Text
+            name: '-6b3ef29a'
+            widget: string
+          - hint: 'Original text: Marta Belcher - Filecoin Foundation, key: -267bafa7'
+            label: Text
+            name: '-267bafa7'
+            widget: string
+          - hint: 'Original text: Clara Tsao - Filecoin Foundation, key: 7335b9f9'
+            label: Text
+            name: 7335b9f9
+            widget: string
+          - hint: 'Original text: John Solly - EASIER Data Initiative, key: 4d6210ec'
+            label: Text
+            name: 4d6210ec
+            widget: string
+          - hint: 'Original text: Parshant Maurya - Spheron Network, key: -765e2c46'
+            label: Text
+            name: '-765e2c46'
+            widget: string
+          - hint: 'Original text: Andrew Hill - Tableland, key: 308d3f5a'
+            label: Text
+            name: 308d3f5a
+            widget: string
+          - hint: 'Original text: Garrett Kinsman - Nodle, key: 5ad12dcb'
+            label: Text
+            name: 5ad12dcb
+            widget: string
+          - hint: 'Original text: Matt Hamilton - Protocol Labs, key: -321872fd'
+            label: Text
+            name: '-321872fd'
+            widget: string
+          - hint: 'Original text: Catherine Stihler - Creative Commons, key: 747ff070'
+            label: Text
+            name: 747ff070
+            widget: string
+          - hint: 'Original text: Katie Wawro - Launchpad, key: -3c4a78ef'
+            label: Text
+            name: '-3c4a78ef'
+            widget: string
+          - hint: 'Original text: Preston James - DivIncBZ - Flow, key: -5af0fef0'
+            label: Text
+            name: '-5af0fef0'
+            widget: string
+          - hint: 'Original text: Jonathan Victor - Protocol Labs, key: -74f993d7'
+            label: Text
+            name: '-74f993d7'
+            widget: string
+          - hint: 'Original text: Anshuman Prasad - Protocol Labs, key: -6f33db5'
+            label: Text
+            name: '-6f33db5'
+            widget: string
+          - hint: 'Original text: Stephan Fluin - Spheron Network, key: -3c757211'
+            label: Text
+            name: '-3c757211'
+            widget: string
+          - hint: 'Original text: 1:30pm - 1:45pm, key: 3acd1df7'
+            label: Text
+            name: 3acd1df7
+            widget: string
+          - hint: >-
+              Original text: Andrew Hill: Tableland - relational database on the
+              FVM, key: 2b4fd50d
+            label: Text
+            name: 2b4fd50d
+            widget: string
+          - hint: >-
+              Original text: Join us to learn about Tableland, a permissionless
+              relational database that is available on the FVM. Tableland
+              enables developers to build rich data models for decentralized
+              games, apps, NFTs, and more. Discover how Tableland brings the
+              familiarity of serverless relational databases and SQL to
+              Filecoin, paving the way for a new era of data-centric
+              applications to emerge., key: 5792b0dd
+            label: Text
+            name: 5792b0dd
+            widget: text
           - hint: 'Original text: 1pm - 5pm, key: -6d374e33'
             label: Text
             name: '-6d374e33'
+            widget: string
+          - hint: 'Original text: 2pm - 2:30pm, key: 688b6a06'
+            label: Text
+            name: 688b6a06
+            widget: string
+          - hint: >-
+              Original text: Garrett Kinsman: Fighting AI Generated Content with
+              Censorship Resistant Media, key: -244dafc9
+            label: Text
+            name: '-244dafc9'
+            widget: string
+          - hint: >-
+              Original text: Garrett Kinsman CoFounder of Nodle goes into how AI
+              generated content is unraveling civilization and how decentralized
+              technologies will save us., key: 8ec7f4
+            label: Text
+            name: 8ec7f4
+            widget: text
+          - hint: 'Original text: 2:30pm - 3pm, key: -1a576f41'
+            label: Text
+            name: '-1a576f41'
+            widget: string
+          - hint: >-
+              Original text: Matt Hamilton: Programatically Creating Storage
+              Deals on the Filecoin Virtual Machine, key: -381d7251
+            label: Text
+            name: '-381d7251'
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Virtual Machine, FVM, solidifies
+              Filecoin as the L1 that uniquely powers the open data economy. In
+              this talk, we will explore how to programatically create storage
+              deals on the Filecoin network using smart contracts., key:
+              578cb062
+            label: Text
+            name: 578cb062
+            widget: text
+          - hint: >-
+              Original text: We will start by discussing the basics of the
+              Filecoin network and its architecture. Then, we will dive into the
+              Filecoin storage deal flow and the role of different parties in
+              the process. This will include understanding the responsibilities
+              of clients, and storage providers in creating and verifying
+              storage deals., key: -484dbecb
+            label: Text
+            name: '-484dbecb'
+            widget: text
+          - hint: >-
+              Original text: We will then demonstrate how to create a complete
+              local Filecoin network on your laptop, allowing you to experiment
+              with the storage deal creation process. This will involve setting
+              up a testnet, creating and funding wallets, and deploying smart
+              contracts., key: 632168e7
+            label: Text
+            name: '632168e7'
+            widget: text
+          - hint: >-
+              Original text: Finally, we will walk through the steps of using
+              smart contracts to create storage contracts on the Filecoin
+              network. This will include deploying an example contract that
+              creates a storage deal and monitoring its progress on the
+              blockchain., key: -7785be48
+            label: Text
+            name: '-7785be48'
+            widget: text
+          - hint: >-
+              Original text: By the end of this talk, attendees will have a
+              solid understanding of the Filecoin storage deal flow and the
+              ability to create storage contracts using smart contracts. They
+              will also have the tools to experiment with the Filecoin network
+              locally, enabling them to further explore this exciting new
+              technology., key: -1548dd0
+            label: Text
+            name: '-1548dd0'
+            widget: text
+          - hint: 'Original text: 3:50pm - 4:30pm, key: -2f57fdcc'
+            label: Text
+            name: '-2f57fdcc'
+            widget: string
+          - hint: >-
+              Original text: Panel: Unlocking Cross-Chain Doors with Filecoin
+              Virtual Machine, key: -254fc8ba
+            label: Text
+            name: '-254fc8ba'
+            widget: string
+          - hint: >-
+              Original text: The launch of the Filecoin Virtual Machine has
+              enabled greater integration between the Filecoin network and the
+              broader Web3 community. This panel explores the opportunities now
+              available for builders from other chains and ecosystems to take
+              advantage of smart contracts on Fliecoin, key: 2dc35f8d
+            label: Text
+            name: 2dc35f8d
+            widget: text
+          - hint: >-
+              Original text: Panelists: Anshuman Prasad, BZ, Stephen Fluin,
+              Clara Tsao. Moderated by Jonathan Victor., key: -4fec6fbe
+            label: Text
+            name: '-4fec6fbe'
             widget: string
           - hint: 'Original text: 5pm - 9pm, key: -1c25832b'
             label: Text
@@ -890,19 +1135,18 @@ collections:
             label: Text
             name: '-1540fec1'
             widget: string
-          - hint: 'Original text: Deep Dive: Filecoin, key: -3ced7e05'
+          - hint: >-
+              Original text: Storage Is Only the Start: The State of Filecoin,
+              key: 43acea22
             label: Text
-            name: '-3ced7e05'
+            name: 43acea22
             widget: string
           - hint: >-
-              Original text: Join an hourlong exploration of the advancements
-              defining the Filecoin community in 2023. Learn about the tech
-              upgrades, promising projects and other pressing issues that are
-              shaping the evolution of Filecoin. For BUIDLers and investors
-              alike, key: -5fdeb841
+              Original text: An hourlong exploration of the advancements
+              defining the Filecoin ecosystem in 2023., key: -7fc1d751
             label: Text
-            name: '-5fdeb841'
-            widget: text
+            name: '-7fc1d751'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1009,10 +1253,17 @@ collections:
             widget: string
           - hint: >-
               Original link:
-              https://consensus.coindesk.com/agenda/event/-deep-dive-filecoin-23,
-              key: 60a86a68
+              https://consensus.coindesk.com/agenda/event/-sponsored-interview-filecoin-179,
+              key: 460a2994
             label: Link
-            name: 60a86a68
+            name: 460a2994
+            widget: string
+          - hint: >-
+              Original link:
+              https://consensus.coindesk.com/agenda/event/-storage-is-only-the-start-the-state-of-filecoin-294,
+              key: -3091d64d
+            label: Link
+            name: '-3091d64d'
             widget: string
       - label: Images
         name: images
