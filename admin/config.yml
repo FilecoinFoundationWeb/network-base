@@ -617,9 +617,9 @@ collections:
             label: Text
             name: 1d5c84b2
             widget: string
-          - hint: 'Original text: Mon, April 24th, key: -afa9cf0'
+          - hint: 'Original text: Mon, April 24, key: -1fb63464'
             label: Text
-            name: '-afa9cf0'
+            name: '-1fb63464'
             widget: string
           - hint: 'Original text: 9am, key: e225'
             label: Text
@@ -710,24 +710,41 @@ collections:
             label: Text
             name: '-546cc1b6'
             widget: text
-          - hint: >-
-              Original text: Speakers | Second floorJacob Homanics - ATX DAO |
-              Crossing the Chasm: Web2 to Web3 Game Development using IPFSBZ -
-              Flow | How Filecoin and IPFS Enable Web3 Games on FlowLeon Do -
-              Game7/Hyperplay/Open Source | Quest to Discovering the Web3 Gaming
-              Tech Stack, key: 20c3b18b
+          - hint: 'Original text: Speakers | Second floor, key: 646f6fd0'
             label: Text
-            name: 20c3b18b
-            widget: text
-          - hint: >-
-              Original text: Happy Hour | 7 PM, third floorDJ set by fennec with
-              vintage deep house vibes!, key: 57c01abd
-            label: Text
-            name: 57c01abd
+            name: 646f6fd0
             widget: string
-          - hint: 'Original text: Tues, April 25th, key: -26eff18c'
+          - hint: >-
+              Original text: Jacob Homanics - ATX DAO | Crossing the Chasm: Web2
+              to Web3 Game Development using IPFS, key: 1a1f362d
             label: Text
-            name: '-26eff18c'
+            name: 1a1f362d
+            widget: string
+          - hint: >-
+              Original text: BZ - Flow | How Filecoin and IPFS Enable Web3 Games
+              on Flow, key: 27076b1
+            label: Text
+            name: 27076b1
+            widget: string
+          - hint: >-
+              Original text: Leon Do - Game7/Hyperplay/Open Source | Quest to
+              Discovering the Web3 Gaming Tech Stack, key: 6340e83f
+            label: Text
+            name: 6340e83f
+            widget: string
+          - hint: 'Original text: Happy Hour | 7 PM, third floor, key: 2291dff9'
+            label: Text
+            name: 2291dff9
+            widget: string
+          - hint: >-
+              Original text: DJ set by fennec with vintage deep house vibes!,
+              key: 515867d6
+            label: Text
+            name: 515867d6
+            widget: string
+          - hint: 'Original text: Tues, April 25, key: -22f00000'
+            label: Text
+            name: '-22f00000'
             widget: string
           - hint: 'Original text: 9am - 12:30pm, key: 78e465a5'
             label: Text
@@ -831,9 +848,9 @@ collections:
             label: Text
             name: '-6d5a90ca'
             widget: text
-          - hint: 'Original text: Wed, April 26th, key: 53cf6fdc'
+          - hint: 'Original text: Wed, April 26, key: 13889b68'
             label: Text
-            name: 53cf6fdc
+            name: 13889b68
             widget: string
           - hint: 'Original text: 9am - 6pm, key: 1eba8c85'
             label: Text
@@ -847,9 +864,9 @@ collections:
             label: Text
             name: '-6d374a72'
             widget: string
-          - hint: 'Original text: Program, key: 50c7b664'
+          - hint: 'Original text: Filecoin Network Day, key: -56a27309'
             label: Text
-            name: 50c7b664
+            name: '-56a27309'
             widget: string
           - hint: >-
               Original text: Join us for a day full of Filecoin program!Talks
@@ -893,9 +910,13 @@ collections:
             label: Text
             name: '-3c4a78ef'
             widget: string
-          - hint: 'Original text: Preston James - DivIncBZ - Flow, key: -5af0fef0'
+          - hint: 'Original text: Preston James - DivInc, key: -1248eac7'
             label: Text
-            name: '-5af0fef0'
+            name: '-1248eac7'
+            widget: string
+          - hint: 'Original text: BZ - Flow, key: -55bbb9d7'
+            label: Text
+            name: '-55bbb9d7'
             widget: string
           - hint: 'Original text: Jonathan Victor - Protocol Labs, key: -74f993d7'
             label: Text
@@ -1041,9 +1062,9 @@ collections:
             label: Text
             name: '-4e08283'
             widget: string
-          - hint: 'Original text: April 26th-28th, key: -1b28cd0b'
+          - hint: 'Original text: April 26–28, key: -24eaa565'
             label: Text
-            name: '-1b28cd0b'
+            name: '-24eaa565'
             widget: string
           - hint: 'Original text: All Day, key: 2cc1f05d'
             label: Text

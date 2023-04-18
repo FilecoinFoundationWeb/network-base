@@ -1924,6 +1924,10 @@ img {
 }
 
 @media screen and (min-width: 1920px) {
+  ._25px-header {
+    max-width: 4vw;
+  }
+
   .nav-menu-two {
     padding-right: 0px;
   }
@@ -1956,7 +1960,6 @@ img {
 }
 
 @media screen and (max-width: 991px) {
-
   .text {
     min-width: auto;
   }
@@ -2466,6 +2469,8 @@ img {
   }
 
   .index-2 {
+    position: relative;
+    z-index: 0;
     height: auto;
   }
 
@@ -2475,6 +2480,7 @@ img {
   }
 
   .hero-no-image-2.centered {
+    z-index: auto;
     padding-top: 64px;
     padding-right: 12px;
     padding-left: 12px;
@@ -2760,6 +2766,7 @@ img {
 
   .div-block-9 {
     top: 19%;
+    overflow: visible;
     background-image: var(--image-i7b9971c6);
     background-position: 50% 0%;
     background-size: auto 500px;
@@ -2805,6 +2812,11 @@ img {
     z-index: 10;
     padding-right: 20px;
     padding-left: 20px;
+  }
+
+  .nav-menu-wrapper {
+    position: absolute;
+    z-index: 100;
   }
 
   .main-button {
