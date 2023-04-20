@@ -439,6 +439,30 @@ collections:
             label: Text
             name: 5644f50e
             widget: string
+          - hint: 'Original text: Clara Tsao, key: e60c266'
+            label: Text
+            name: e60c266
+            widget: string
+          - hint: 'Original text: Founding Officer, , key: 2cc5fa2a'
+            label: Text
+            name: 2cc5fa2a
+            widget: string
+          - hint: 'Original text: Filecoin Foundation, key: 4b1a20a6'
+            label: Text
+            name: 4b1a20a6
+            widget: string
+          - hint: 'Original text: Paul Brody, key: -75a172e4'
+            label: Text
+            name: '-75a172e4'
+            widget: string
+          - hint: 'Original text: Global Blockchain Leader, , key: 31af0ac'
+            label: Text
+            name: 31af0ac
+            widget: string
+          - hint: 'Original text: EY, key: 8b4'
+            label: Text
+            name: 8b4
+            widget: string
           - hint: 'Original text: Marta Belcher, key: 26c060c6'
             label: Text
             name: 26c060c6
@@ -446,10 +470,6 @@ collections:
           - hint: 'Original text: President and Chair, , key: 1d105f10'
             label: Text
             name: 1d105f10
-            widget: string
-          - hint: 'Original text: Filecoin Foundation, key: 4b1a20a6'
-            label: Text
-            name: 4b1a20a6
             widget: string
           - hint: 'Original text: Kiran Karra, key: 29c271ec'
             label: Text
@@ -616,6 +636,62 @@ collections:
           - hint: 'Original text: Axelar Network, key: 63d9bedd'
             label: Text
             name: 63d9bedd
+            widget: string
+          - hint: 'Original text: Anshuman Prasad, key: 2f435010'
+            label: Text
+            name: 2f435010
+            widget: string
+          - hint: 'Original text: Partnerships @ Filecoin, , key: -1e97f94e'
+            label: Text
+            name: '-1e97f94e'
+            widget: string
+          - hint: 'Original text: Matt Hamilton, key: 5bba8ac8'
+            label: Text
+            name: 5bba8ac8
+            widget: string
+          - hint: 'Original text: Principal Developer Advocate, , key: 41057547'
+            label: Text
+            name: '41057547'
+            widget: string
+          - hint: 'Original text: FVM - Protocol Labs, key: 187c09b8'
+            label: Text
+            name: 187c09b8
+            widget: string
+          - hint: 'Original text: Leon Do, key: 6701c093'
+            label: Text
+            name: 6701c093
+            widget: string
+          - hint: 'Original text: Dev, , key: 3ede829'
+            label: Text
+            name: 3ede829
+            widget: string
+          - hint: 'Original text: Game7/Hyperplay/Open Source, key: -1c5e1d88'
+            label: Text
+            name: '-1c5e1d88'
+            widget: string
+          - hint: 'Original text: bz, key: c58'
+            label: Text
+            name: c58
+            widget: string
+          - hint: 'Original text: Co-founder / Flow Ambassador, , key: -2a3905ac'
+            label: Text
+            name: '-2a3905ac'
+            widget: string
+          - hint: 'Original text: Wonder Arena / Flow Blockchain, key: 13bcbc57'
+            label: Text
+            name: 13bcbc57
+            widget: string
+          - hint: 'Original text: David Johnson, key: d6c7ebb'
+            label: Text
+            name: d6c7ebb
+            widget: string
+          - hint: 'Original text: Chief Strategy Officer, , key: 6a380898'
+            label: Text
+            name: 6a380898
+            widget: string
+          - hint: 'Original text: DLTx, key: 20112c'
+            label: Text
+            name: 20112c
             widget: string
           - hint: 'Original text: MORE SPEAKERS TBA, key: 1d5c84b2'
             label: Text
@@ -1693,6 +1769,32 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: 4add5bf8
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3a029c7d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: deda7a0
             widget: object
             fields:
@@ -1876,6 +1978,71 @@ collections:
                 required: false
           - label: Image
             name: '-41bc3c1c'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-334fc9e0'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 27b63193
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-13e24e07'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-43e1aa2a'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-20c7ce67'
             widget: object
             fields:
               - name: url
