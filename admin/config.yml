@@ -427,18 +427,6 @@ collections:
             label: Text
             name: '-73d004fc'
             widget: string
-          - hint: 'Original text: Juan Benet, key: -4dd264ee'
-            label: Text
-            name: '-4dd264ee'
-            widget: string
-          - hint: 'Original text: Founder and CEO, , key: -44651c79'
-            label: Text
-            name: '-44651c79'
-            widget: string
-          - hint: 'Original text: Protocol Labs, key: 5644f50e'
-            label: Text
-            name: 5644f50e
-            widget: string
           - hint: 'Original text: Clara Tsao, key: e60c266'
             label: Text
             name: e60c266
@@ -644,6 +632,10 @@ collections:
           - hint: 'Original text: Partnerships @ Filecoin, , key: -1e97f94e'
             label: Text
             name: '-1e97f94e'
+            widget: string
+          - hint: 'Original text: Protocol Labs, key: 5644f50e'
+            label: Text
+            name: 5644f50e
             widget: string
           - hint: 'Original text: Matt Hamilton, key: 5bba8ac8'
             label: Text
@@ -1079,6 +1071,10 @@ collections:
           - hint: 'Original text: 5: 30 pm - 6 pm, key: -6840beab'
             label: Text
             name: '-6840beab'
+            widget: string
+          - hint: 'Original text: Juan Benet, key: -4dd264ee'
+            label: Text
+            name: '-4dd264ee'
             widget: string
           - hint: >-
               Original text: Applications of the Filecoin Virtual Machine, key:
@@ -1792,19 +1788,6 @@ collections:
                 required: false
           - label: Image
             name: '-c0ec661'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-39c63986'
             widget: object
             fields:
               - name: url
