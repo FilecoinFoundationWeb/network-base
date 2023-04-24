@@ -673,13 +673,9 @@ collections:
             label: Text
             name: 13bcbc57
             widget: string
-          - hint: 'Original text: David Johnson, key: d6c7ebb'
+          - hint: 'Original text: David Johnston, key: -5fdc9409'
             label: Text
-            name: d6c7ebb
-            widget: string
-          - hint: 'Original text: Chief Strategy Officer, , key: 6a380898'
-            label: Text
-            name: 6a380898
+            name: '-5fdc9409'
             widget: string
           - hint: 'Original text: DLTx, key: 20112c'
             label: Text
