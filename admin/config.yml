@@ -1068,20 +1068,6 @@ collections:
             label: Text
             name: '43716150'
             widget: string
-          - hint: 'Original text: 5: 30 pm - 6 pm, key: -6840beab'
-            label: Text
-            name: '-6840beab'
-            widget: string
-          - hint: 'Original text: Juan Benet, key: -4dd264ee'
-            label: Text
-            name: '-4dd264ee'
-            widget: string
-          - hint: >-
-              Original text: Applications of the Filecoin Virtual Machine, key:
-              64823f9a
-            label: Text
-            name: 64823f9a
-            widget: string
           - hint: 'Original text: Filecoin and Fluence Happy Hour, key: 4c71fbe6'
             label: Text
             name: 4c71fbe6
