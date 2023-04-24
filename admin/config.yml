@@ -921,6 +921,10 @@ collections:
             label: Text
             name: 515867d6
             widget: string
+          - hint: 'Original text: BACK TO TOP, key: -28fb7097'
+            label: Text
+            name: '-28fb7097'
+            widget: string
           - hint: 'Original text: Tues, April 25, key: -22f00000'
             label: Text
             name: '-22f00000'
@@ -1623,6 +1627,10 @@ collections:
           - hint: 'Original link: https://lu.ma/ev3ysogh, key: 5f976999'
             label: Link
             name: 5f976999
+            widget: string
+          - hint: 'Original link: #TOP, key: 112e32'
+            label: Link
+            name: '112e32'
             widget: string
           - hint: 'Original link: https://lu.ma/cedaustin, key: 7c142b17'
             label: Link
