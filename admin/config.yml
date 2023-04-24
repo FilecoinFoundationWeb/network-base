@@ -905,6 +905,16 @@ collections:
             label: Text
             name: '-708fdb79'
             widget: text
+          - hint: 'Original text: 7pm - 7:30pm, key: -68742004'
+            label: Text
+            name: '-68742004'
+            widget: string
+          - hint: >-
+              Original text: bz: Workshop Demo: Walletless onboarding & Hybrid
+              Custody Solutions, key: 6d5030bc
+            label: Text
+            name: 6d5030bc
+            widget: string
           - hint: 'Original text: 7 pm - 9 pm, key: -756fedcf'
             label: Text
             name: '-756fedcf'
