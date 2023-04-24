@@ -697,6 +697,22 @@ collections:
             label: Text
             name: 1d5c84b2
             widget: string
+          - hint: 'Original text: Monday, key: -764b22d0'
+            label: Text
+            name: '-764b22d0'
+            widget: string
+          - hint: 'Original text: Tuesday, key: 28f7822d'
+            label: Text
+            name: 28f7822d
+            widget: string
+          - hint: 'Original text: Wednesday, key: -357e48ca'
+            label: Text
+            name: '-357e48ca'
+            widget: string
+          - hint: 'Original text: Thu-Fri, key: 1389b991'
+            label: Text
+            name: 1389b991
+            widget: string
           - hint: 'Original text: Mon, April 24, key: -1fb63464'
             label: Text
             name: '-1fb63464'
@@ -859,51 +875,18 @@ collections:
             name: 3d1ba481
             widget: text
           - hint: >-
-              Original text: The world of blockchain gaming has experienced
-              significant growth in recent years, yet its complexity and
-              barriers to entry have often limited its reach to a niche
-              audience. To address these challenges, Flow Blockchain, Filecoin,
-              and Mocaverse by Animoca Brands are joining forces to break down
-              barriers and simplify the blockchain gaming experience for casual
-              players., key: -31dd8e37
+              Original text: Flow Blockchain, Filecoin, and Mocaverse by Animoca
+              Brands aim to simplify the complex world of blockchain gaming for
+              casual players. Join to learn about user-centric gaming on Flow
+              Blockchain, Filecoin's decentralized storage, and Mocaverse's
+              unique NFT collection. Experts in the field will discuss
+              walletless onboarding, hybrid custody solutions, and
+              community-driven development. Guests will receive an attendance
+              NFT and gain insights into the latest trends in blockchain gaming,
+              while exploring the potential of these technologies in shaping the
+              industry's future., key: 1b839d28
             label: Text
-            name: '-31dd8e37'
-            widget: text
-          - hint: >-
-              Original text: This event will explore how Flow Blockchain, an
-              innovative and developer-friendly platform, enables the creation
-              of user-centric applications and games that cater to both web3
-              natives and mainstream users. We will discuss Filecoin's role in
-              providing decentralized storage solutions, enabling secure and
-              scalable gaming experiences. Furthermore, we will delve into the
-              unique membership NFT collection, Mocaverse, by Animoca Brands,
-              which represents their values surrounding web3 and digital
-              property rights while fostering a one-of-a-kind ecosystem., key:
-              6a6dfda7
-            label: Text
-            name: 6a6dfda7
-            widget: text
-          - hint: >-
-              Original text: Attendees will have the opportunity to learn from
-              experts in the blockchain, gaming, and development fields who have
-              successfully navigated the complexities of these technologies to
-              create user-friendly and accessible gaming experiences. Key topics
-              will include walletless onboarding, hybrid custody solutions, and
-              the power of community-driven development., key: -31ec4edf
-            label: Text
-            name: '-31ec4edf'
-            widget: text
-          - hint: >-
-              Original text: By attending this event, participants will receive
-              an attendance NFT (FLOAT) and gain insights into the latest trends
-              in blockchain gaming and explore the potential of Flow Blockchain,
-              Filecoin, and Mocaverse by Animoca Brands in shaping the future of
-              the industry. Join us as we unlock the secrets to simplifying
-              blockchain gaming, making it more accessible and enjoyable for
-              casual players, and expanding its reach to a broader audience.,
-              key: -4bbaf4a
-            label: Text
-            name: '-4bbaf4a'
+            name: 1b839d28
             widget: text
           - hint: 'Original text: 6:30pm - 7pm, key: 46f353f'
             label: Text
@@ -1620,6 +1603,22 @@ collections:
               key: -721dcdb7
             label: Link
             name: '-721dcdb7'
+            widget: string
+          - hint: 'Original link: #Mon, key: 1117e9'
+            label: Link
+            name: '1117e9'
+            widget: string
+          - hint: 'Original link: #Tue, key: 1132e1'
+            label: Link
+            name: '1132e1'
+            widget: string
+          - hint: 'Original link: #Wed, key: 113c33'
+            label: Link
+            name: 113c33
+            widget: string
+          - hint: 'Original link: #Other, key: 40492cad'
+            label: Link
+            name: 40492cad
             widget: string
           - hint: 'Original link: https://lu.ma/ev3ysogh, key: 5f976999'
             label: Link
