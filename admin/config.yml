@@ -401,6 +401,10 @@ collections:
             label: Text
             name: 25b5eb92
             widget: string
+          - hint: 'Original text: Watch recap, key: 3f3c4a0e'
+            label: Text
+            name: 3f3c4a0e
+            widget: string
           - hint: >-
               Original text: Visit our co-working space to catch a lightning
               talk, participate in workshops with developers, and learn about
@@ -1584,10 +1588,10 @@ collections:
             name: '-7eec0681'
             widget: string
           - hint: >-
-              Original link: http://networkbase.io/register-austin, key:
-              -5b423c24
+              Original link: https://www.youtube.com/watch?v=S4B6t-EwUDg, key:
+              4680a222
             label: Link
-            name: '-5b423c24'
+            name: 4680a222
             widget: string
           - hint: >-
               Original link:
