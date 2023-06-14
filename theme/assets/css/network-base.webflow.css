@@ -1112,6 +1112,10 @@ img {
   margin-bottom: 30px;
 }
 
+.div-detail-inside.hidden {
+  display: none;
+}
+
 .newlink {
   color: #003662;
   font-weight: 500;
