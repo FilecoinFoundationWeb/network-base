@@ -6260,6 +6260,36 @@ collections:
             label: Text
             name: '-7fc1d751'
             widget: string
+          - hint: >-
+              Original text: Join us in Las Vegas for the first major Filecoin
+              community event in North America in 2023. As we return to the US
+              for FIL Vegas, , key: 3ae2ac06
+            label: Text
+            name: 3ae2ac06
+            widget: text
+          - hint: >-
+              Original text: we're shining the spotlight on storage providers,
+              the backbone of the Filecoin community., key: 4c3438af
+            label: Text
+            name: 4c3438af
+            widget: string
+          - hint: >-
+              Original text: Together, we’ll explore how the community can
+              collaborate to usher in a new era for the network – an era defined
+              by clients that see the differentiated value that Filecoin offers
+              and an ecosystem that works together to support this accelerated
+              level of growth., key: -5700ace3
+            label: Text
+            name: '-5700ace3'
+            widget: text
+          - hint: >-
+              Original text: If you're focused on the future of data storage and
+              the latest on how artificial intelligence and emerging tech are
+              impacting decentralized storage, this event is for you., key:
+              7b6dcc7f
+            label: Text
+            name: 7b6dcc7f
+            widget: text
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -6963,6 +6993,10 @@ collections:
               key: -3091d64d
             label: Link
             name: '-3091d64d'
+            widget: string
+          - hint: 'Original link: #FAQ, key: 10f7f3'
+            label: Link
+            name: 10f7f3
             widget: string
       - label: Images
         name: images

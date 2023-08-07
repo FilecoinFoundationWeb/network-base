@@ -1101,6 +1101,7 @@ img {
 
 .div-detail-inside {
   height: auto;
+  background-color: #000;
   border: 4px dotted #0090ff;
   align-items: flex-start;
   margin-bottom: 30px;
