@@ -49,8 +49,8 @@ img {
 }
 
 .small-container {
-  width: auto;
-  max-width: 80vw;
+  width: 50vw;
+  max-width: 500px;
   grid-column-gap: 40px;
   grid-row-gap: 40px;
   border-radius: 16px;
@@ -459,6 +459,7 @@ img {
   width: 30vw;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
+  filter: invert();
   object-fit: cover;
   flex: 0 auto;
   justify-content: center;
