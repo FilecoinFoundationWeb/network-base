@@ -26,7 +26,7 @@
       <div class="div-block-2 gate"></div>
       <div class="small-container">
         <div class="content">
-          <div class="logos"><img src="{{ images.6e53f5b.url }}" loading="lazy" height="" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;80vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;30vw&quot;}]" alt="{{ images.6e53f5b.alt | trim | escape }}" class="vectors-wrapper-8"></div>
+          <div class="logos"><img src="{{ images.20a804ac.url }}" loading="lazy" height="" data-sizes="[{&quot;max&quot;:479,&quot;size&quot;:&quot;70vw&quot;},{&quot;max&quot;:767,&quot;size&quot;:&quot;80vw&quot;},{&quot;max&quot;:10000,&quot;size&quot;:&quot;30vw&quot;}]" sizes="(max-width: 479px) 70vw, (max-width: 767px) 80vw, 30vw" alt="{{ images.20a804ac.alt | trim | escape }}" class="vectors-wrapper-8"></div>
           <div class="ffblock">
             <p class="_16px-header">{{ texts.-48378adc }}</p>
             <a href="{{ links.-197dcad3 }}" target="_blank" class="link-block-5 w-inline-block"><img src="{{ images.101fa572.url }}" loading="lazy" alt="{{ images.101fa572.alt | trim | escape }}" class="image-37"></a>
@@ -41,33 +41,45 @@
         </p>
       </div>
       <div class="schedule-container">
-        <div class="div-middle">
-          <a href="{{ links.6b231b3 }}" target="_blank" class="w-inline-block">
-            <div class="div-details-w-date">
-              <div class="div-detail-inside">
-                <h2 class="_25px-header date">{{ texts.6dba15bc }}</h2>
-                <div class="schedule-grid">
-                  <p id="w-node-_69f2010c-cb02-3dcd-077a-2722e003b94e-10628a33" class="_16px-header">{{ texts.10e1ee13 }}<br><span class="schedule-location">{{ texts.57583080 }}</span></p>
-                  <div class="details">
-                    <h3 class="_25px-header">{{ texts.718403ef }}</h3>
-                    <p class="paragraph">{{ texts.-67bafdf3 }}<br><br>{{ texts.24e3ad7c }}</p>
+        {%- assign collection = collections.base-events | sort: "-created-on" -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+              <div class="div-middle">
+                <a href="{{ links.6b231b3 }}" target="_blank" class="w-inline-block">
+                  <div class="div-details-w-date">
+                    <div class="div-detail-inside">
+                      <h2 class="_25px-header date">{{ item.data.f_date }}</h2>
+                      <div class="schedule-grid">
+                        <div id="w-node-_436a0a79-14a7-d1b5-efb1-c41b3fa6e85c-10628a33">
+                          <p id="w-node-_69f2010c-cb02-3dcd-077a-2722e003b94e-10628a33" class="_16px-header venue">{{ item.data.f_name-of-venue }}</p>
+                          <p class="_16px-header address">{{ item.data.f_address-of-venue }}</p>
+                        </div>
+                        <div class="details">
+                          <h1 class="_25px-header event-title">{{ item.data.title }}</h1>
+                          <p class="paragraph event-blurb">{{ item.data.f_blurb-2 }}</p>
+                        </div>
+                      </div>
+                    </div>
                   </div>
-                </div>
+                </a>
+                <a href="{{ links.681a2682 }}" target="_blank" class="w-inline-block">
+                  <div class="div-detail-inside hidden">
+                    <h2 class="_25px-header date">{{ texts.754ab27a }}<br>{{ texts.2d8e9af }}</h2>
+                    <div class="schedule-grid">
+                      <p id="w-node-bc352aa4-9b54-798e-62d4-3a66540e5e63-10628a33" class="_16px-header"><span class="schedule-location">{{ texts.-bec0026 }}<br>{{ texts.-51d8a23c }}</span></p>
+                      <div class="details">
+                        <h3 class="_25px-header">{{ texts.-7dacd72a }}</h3>
+                        <p class="paragraph">{{ texts.a03da7b }}</p>
+                      </div>
+                    </div>
+                  </div>
+                </a>
               </div>
-            </div>
-          </a>
-          <a href="{{ links.681a2682 }}" target="_blank" class="w-inline-block">
-            <div class="div-detail-inside hidden">
-              <h2 class="_25px-header date">{{ texts.754ab27a }}<br>{{ texts.2d8e9af }}</h2>
-              <div class="schedule-grid">
-                <p id="w-node-bc352aa4-9b54-798e-62d4-3a66540e5e63-10628a33" class="_16px-header"><span class="schedule-location">{{ texts.-bec0026 }}<br>{{ texts.-51d8a23c }}</span></p>
-                <div class="details">
-                  <h3 class="_25px-header">{{ texts.-7dacd72a }}</h3>
-                  <p class="paragraph">{{ texts.a03da7b }}</p>
-                </div>
-              </div>
-            </div>
-          </a>
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+            <div>{{ texts.3d503d2b }}</div>
+          </div>{%- endif -%}
         </div>
       </div>
       <div class="div-block-6"><img src="{{ images.df0ffdb.url }}" loading="lazy" data-sizes="[{&quot;max&quot;:10000,&quot;size&quot;:&quot;100vw&quot;}]" sizes="100vw" alt="{{ images.df0ffdb.alt | trim | escape }}" class="image-38"></div>
