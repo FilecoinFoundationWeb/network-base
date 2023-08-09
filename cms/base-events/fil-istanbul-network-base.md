@@ -1,5 +1,5 @@
 ---
-title: FIL Istanbul Network Base
+title: Filecoin Network Base
 created-on: 2023-08-07T17:51:03.607Z
 updated-on: 2023-08-07T17:57:14.659Z
 published-on: 2023-08-07T17:59:15.040Z
