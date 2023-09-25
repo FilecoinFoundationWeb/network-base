@@ -2168,6 +2168,13 @@ img {
   display: flex;
 }
 
+.div-block-115 {
+  width: 100%;
+  height: auto;
+  max-width: 1200px;
+  min-height: 1000px;
+}
+
 @media screen and (min-width: 1440px) {
   .div-block-7 {
     max-width: 1140px;
