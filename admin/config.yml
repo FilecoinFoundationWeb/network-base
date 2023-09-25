@@ -2042,6 +2042,20 @@ collections:
             label: Text
             name: '-49589aa3'
             widget: string
+          - hint: 'Original text: November 14-16 , key: -1865ed81'
+            label: Text
+            name: '-1865ed81'
+            widget: string
+          - hint: 'Original text: at , key: 17a4d'
+            label: Text
+            name: 17a4d
+            widget: string
+          - hint: >-
+              Original text: The Filecoin Foundation Network Base in Istanbul,
+              key: 352cb469
+            label: Text
+            name: 352cb469
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
