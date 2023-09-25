@@ -1130,7 +1130,7 @@ img {
 }
 
 .navbar-link-3.hidden {
-  display: flex;
+  display: none;
 }
 
 .logos-5 {
@@ -2083,6 +2083,10 @@ img {
 
 .rich-text-block {
   font-family: Open Sans, sans-serif;
+}
+
+.html-embed {
+  width: 100%;
 }
 
 @media screen and (min-width: 1440px) {

@@ -1818,6 +1818,21 @@ collections:
             label: Link
             name: '-3091d64d'
             widget: string
+          - hint: 'Original link: #venues, key: a98fdc7'
+            label: Link
+            name: a98fdc7
+            widget: string
+          - hint: 'Original link: #FAQ, key: 10f7f3'
+            label: Link
+            name: 10f7f3
+            widget: string
+          - hint: >-
+              Original link:
+              mailto:april@fil.org?subject=I'm%20interested%20in%20sponsoring!,
+              key: -594f5c72
+            label: Link
+            name: '-594f5c72'
+            widget: string
           - hint: 'Original link: /register-istanbul/, key: -54e8a4ae'
             label: Link
             name: '-54e8a4ae'
