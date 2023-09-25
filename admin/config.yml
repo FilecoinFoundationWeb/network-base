@@ -2056,6 +2056,35 @@ collections:
             label: Text
             name: 352cb469
             widget: string
+          - hint: 'Original text: ABOUT THE NETWORK BASE, key: 42f4b565'
+            label: Text
+            name: 42f4b565
+            widget: string
+          - hint: >-
+              Original text: Set against the backdrop of DevConnect and Lab Week
+              2024, the Filecoin Network Base in Istanbul, November 14-16,
+              features a series of curated conversations, lightning talks, and
+              tech demos. The core aim with this Network Base is to bring
+              together a myriad of voices from the Filecoin and Ethereum
+              ecosystems to delve into core primitives and explore key
+              application areas., key: -440fb395
+            label: Text
+            name: '-440fb395'
+            widget: text
+          - hint: >-
+              Original text: We’re building a space where business gets done –
+              developers can meet with Filecoin Foundation team members and
+              protocol core devs for workshops and demos, and to encourage the
+              formation of new projects and enterprises. This event serves as a
+              tentpole during Lab Week for the Foundation to showcase its work
+              and impact on the network., key: 48fe8728
+            label: Text
+            name: 48fe8728
+            widget: text
+          - hint: 'Original text: VENUE, key: 4dc724f'
+            label: Text
+            name: 4dc724f
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
