@@ -6,7 +6,7 @@ f_name-of-venue: Swissotel Bosphorus
 slug: istanbul-network-base
 updated-on: '2023-09-25T21:27:24.735Z'
 created-on: '2023-08-07T17:51:03.607Z'
-published-on: '2023-09-22T17:54:15.120Z'
+published-on: '2023-09-26T06:08:49.346Z'
 f_blurb-2: >-
   We’re bringing together developers, storage providers, clients, and ecosystem
   partners for programming and networking throughout the week. Registration
