@@ -1,3 +1,8 @@
+:root {
+  --fil-blue: #0090ff;
+  --ff-blue-6: #06094e;
+}
+
 .w-layout-grid {
   grid-row-gap: 16px;
   grid-column-gap: 16px;
@@ -811,7 +816,7 @@ img {
 }
 
 .schedule-location-2 {
-  color: #0090ff;
+  color: var(--fil-blue);
   margin-top: 12px;
   font-size: 16px;
   font-weight: 500;
@@ -1040,8 +1045,12 @@ img {
   padding: 54px 36px 100px;
 }
 
-.bluelink, .link-7 {
+.bluelink {
   color: #0090ff;
+}
+
+.link-7 {
+  color: var(--fil-blue);
 }
 
 .div-block-18 {
@@ -1061,7 +1070,7 @@ img {
 }
 
 .date._25px-header {
-  color: #0090ff;
+  color: var(--fil-blue);
 }
 
 .schedulesection {
@@ -1070,7 +1079,7 @@ img {
 }
 
 .backtotop {
-  color: #0090ff;
+  color: var(--fil-blue);
 }
 
 .button-text-3 {
@@ -1125,7 +1134,7 @@ img {
 }
 
 .button-3.nav.hiddononmobile:hover {
-  border-color: #06094e;
+  border-color: var(--ff-blue-6);
 }
 
 .navbar-link-3 {
@@ -1155,7 +1164,7 @@ img {
   width: 100vw;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  background-color: #06094e;
+  background-color: var(--ff-blue-6);
   justify-content: center;
   align-items: flex-start;
   padding-left: 24px;
@@ -1690,7 +1699,7 @@ img {
 }
 
 .footer-3.dark {
-  background-color: #06094e;
+  background-color: var(--ff-blue-6);
   position: relative;
   top: 0;
   bottom: 0;
@@ -1728,7 +1737,7 @@ img {
 
 .div-faq {
   width: 100%;
-  background-color: #06094e;
+  background-color: var(--ff-blue-6);
   border: 4px solid #fff;
   border-radius: 50px;
   flex-direction: column;
@@ -1855,7 +1864,7 @@ img {
   z-index: 1;
   grid-column-gap: 80px;
   grid-row-gap: 80px;
-  background-color: #06094e;
+  background-color: var(--ff-blue-6);
   border-top: 4px dashed #fff;
   justify-content: center;
   align-items: flex-start;
@@ -2002,8 +2011,8 @@ img {
   }
 
   .div-faq {
+    background-color: var(--ff-blue-6);
     cursor: pointer;
-    background-color: #06094e;
     border: 4px solid #fff;
   }
 

@@ -1871,11 +1871,10 @@ collections:
             name: 10f7f3
             widget: string
           - hint: >-
-              Original link:
-              mailto:april@fil.org?subject=I'm%20interested%20in%20sponsoring!,
-              key: -594f5c72
+              Original link: https://filecoinfoundation.typeform.com/istanbul,
+              key: -11b7aa7f
             label: Link
-            name: '-594f5c72'
+            name: '-11b7aa7f'
             widget: string
           - hint: 'Original link: /register-istanbul/, key: -54e8a4ae'
             label: Link
