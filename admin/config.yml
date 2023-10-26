@@ -1679,24 +1679,27 @@ collections:
             name: 42f4b565
             widget: string
           - hint: >-
-              Original text: Set against the backdrop of DevConnect and Lab Week
-              2024, the Filecoin Network Base in Istanbul, November 14-16,
-              features a series of curated conversations, lightning talks, and
-              tech demos. The Network Base is designed to bring together a range
-              of voices from across the Filecoin and Ethereum ecosystems., key:
-              -649124e9
+              Original text: In light of recent global events, we have decided
+              not to have a dedicated Filecoin Foundation Network Base at
+              LabWeek but rather to focus on sponsoring LabWeek, in the
+              Swissotel Bosphorus. Please be sure to , key: 4a10102f
             label: Text
-            name: '-649124e9'
+            name: 4a10102f
             widget: text
-          - hint: >-
-              Original text: We’re building a space where business gets done –
-              developers can meet with Filecoin Foundation team members and
-              protocol core devs for workshops and demos, and to encourage the
-              formation of new projects and enterprises. This event serves as a
-              tentpole during Lab Week for the Foundation to showcase its work
-              and impact on the network., key: 48fe8728
+          - hint: 'Original text: register, key: -2923d15d'
             label: Text
-            name: 48fe8728
+            name: '-2923d15d'
+            widget: string
+          - hint: 'Original text:  for LabWeek events., key: 2edc6e9f'
+            label: Text
+            name: 2edc6e9f
+            widget: string
+          - hint: >-
+              Original text: We appreciate your commitment to the Filecoin
+              community and we look forward to the opportunity to connect with
+              you in Istanbul and at future events., key: -15562fcb
+            label: Text
+            name: '-15562fcb'
             widget: text
           - hint: 'Original text: TRAVEL, key: -6c068ce6'
             label: Text
@@ -1875,6 +1878,10 @@ collections:
               key: -11b7aa7f
             label: Link
             name: '-11b7aa7f'
+            widget: string
+          - hint: 'Original link: https://23.labweek.io/, key: -36b9bc42'
+            label: Link
+            name: '-36b9bc42'
             widget: string
           - hint: 'Original link: /register-istanbul/, key: -54e8a4ae'
             label: Link
