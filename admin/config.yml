@@ -1670,11 +1670,11 @@ collections:
             label: Text
             name: 75106f71
             widget: string
-          - hint: 'Original text: A note, key: 552c03d1'
+          - hint: 'Original text: A NOTE, key: 552c03d1'
             label: Text
             name: 552c03d1
             widget: string
-          - hint: 'Original text: from our team, key: 42f4b565'
+          - hint: 'Original text: FROM OUR TEAM, key: 42f4b565'
             label: Text
             name: 42f4b565
             widget: string
